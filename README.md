@@ -43,10 +43,12 @@
 - 유튜브) ‘노경섭’ (제대로 시작하는 기초 통계학’ 저자) [제대로 시작하는 기초통계학](https://www.youtube.com/playlist?list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
 - 유튜브) '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)과 [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
 - 유튜브) ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
+- 유튜브) '나도코딩' [파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! ](https://www.youtube.com/watch?v=yQ20jZwDjTE)
 - 유튜브) ‘수악중독’ [(2009개정) 기하와 벡터 개념정리](https://www.youtube.com/playlist?list=PLXJ3W1lEGK8XMoCn8HVySy5DrL6rfDXTx)
 - 유튜브) ‘쑤튜브’ [10분 선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1)
 - 생활코딩) [머신러닝1](https://opentutorials.org/course/4548)
 - 생활코딩) [Tensorflow1](https://opentutorials.org/course/4570)
+
 
 
 #### 자격증
