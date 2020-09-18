@@ -48,13 +48,14 @@
 - 유튜브) ‘쑤튜브’ [10분 선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1)
 - 생활코딩) [머신러닝1](https://opentutorials.org/course/4548)
 - 생활코딩) [Tensorflow1](https://opentutorials.org/course/4570)
+- ~~인프런) [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)~~
 
 
 
 #### 자격증
 - Microsoft Office Specialist (MOS) Expert
-- 국가공인 데이터분석 준전문가(ADsP)
-- 국가공인 SQL 개발자(SQLD)
+- ~~국가공인 데이터분석 준전문가(ADsP)~~
+- ~~국가공인 SQL 개발자(SQLD)~~
 - ~~데이터아키텍처 준전문가(DAsP)~~
 - ~~국가기술 빅데이터 분석기사~~
 - ~~정보처리기사~~
