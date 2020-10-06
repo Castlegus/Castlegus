@@ -47,6 +47,7 @@
 - 유튜브) ‘수악중독’ [(2009개정) 기하와 벡터 개념정리](https://www.youtube.com/playlist?list=PLXJ3W1lEGK8XMoCn8HVySy5DrL6rfDXTx)
 - 유튜브) ‘쑤튜브’ [10분 선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1)
 - 유튜브) 'Sapientia a Dei' [차원축소 - 주성분분석(PCA)과 요인분석(Factor Analysis)](https://www.youtube.com/playlist?list=PLalb9l0_6WAqC_ytofaE-Q4SPsqgT3EmJ)
+- 유튜브) 'Sung Kim' [모두를 위한 딥러닝 시즌1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - 생활코딩) [머신러닝1](https://opentutorials.org/course/4548)
 - 생활코딩) [Tensorflow1](https://opentutorials.org/course/4570)
 - 인프런) [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
