@@ -38,7 +38,7 @@
 
 #### 외부 수강 과목 및 참고 강의
 - KOCW) 국민대학교 이옥연 교수님 [선형대수학 및 연습](http://www.kocw.net/home/search/kemView.do?kemId=694450)
-- ~~KOCW) 한양대학교 이상화 교수님 [선형대수](http://www.kocw.net/home/search/kemView.do?kemId=977757)~~
+- KOCW) 한양대학교 이상화 교수님 [선형대수](http://www.kocw.net/home/search/kemView.do?kemId=977757)
 - 유튜브) 'KC대학교 빅데이터경영학과 이상철 교수' [경영통계학](https://www.youtube.com/playlist?list=PLEUKy_nwlzwGWuVyegtJ0RbBrNxa80EzZ)과 [통계분석 with SPSS](https://www.youtube.com/playlist?list=PLEUKy_nwlzwH4XXK3hhiG2huy0eOpa-Js)
 - 유튜브) ‘노경섭’ (제대로 시작하는 기초 통계학’ 저자) [제대로 시작하는 기초통계학](https://www.youtube.com/playlist?list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
 - 유튜브) '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)과 [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
@@ -55,6 +55,7 @@
 - 인프런) [데이터 분석을 위한 중급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%A4%91%EA%B8%89-SQL/dashboard)
 - 인프런) [데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-SQL/dashboard)
 - 인프런) [RDBMS Modeling](https://www.inflearn.com/course/%EA%B4%80%EA%B3%84%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-RDBMS/dashboard)
+- [딥러닝 1단계: 신경망과 딥러닝 (Andrew Ng 교수 , deep learning.ai 번역 강의)](https://www.edwith.org/deeplearningai1)
 
 
 #### 자격증
