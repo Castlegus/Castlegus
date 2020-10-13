@@ -39,8 +39,9 @@
 - 통계학
 
 #### 외부 수강 과목 및 참고 강의
+- 유튜브) 국민대학교 김남규 교수 [데이터베이스실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
 - [딥러닝 1단계: 신경망과 딥러닝 (Andrew Ng 교수 , deep learning.ai 번역 강의)](https://www.edwith.org/deeplearningai1)
-- 유튜브) 'Sung Kim' [모두를 위한 딥러닝 시즌1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+- ~~유튜브) 'Sung Kim' [모두를 위한 딥러닝 시즌1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)~~
 - 인프런) [RDBMS Modeling](https://www.inflearn.com/course/%EA%B4%80%EA%B3%84%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-RDBMS/dashboard)
 - 인프런) [데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-SQL/dashboard)
 - 인프런) [데이터 분석을 위한 중급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%A4%91%EA%B8%89-SQL/dashboard)
