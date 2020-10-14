@@ -39,7 +39,8 @@
 - 통계학
 
 #### 외부 수강 과목 및 참고 강의
-- 유튜브) [토크ON 48차. Kaggle(캐글) 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfBKFj3HYWwk-jQlV8aNwgk)
+- 유튜브) 
+'SKplanet Tacademy' [토크ON 48차. Kaggle(캐글) 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfBKFj3HYWwk-jQlV8aNwgk)
 - 유튜브) 국민대학교 김남규 교수 [데이터베이스실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
 - [딥러닝 1단계: 신경망과 딥러닝 (Andrew Ng 교수 , deep learning.ai 번역 강의)](https://www.edwith.org/deeplearningai1)
 - ~~유튜브) 'Sung Kim' [모두를 위한 딥러닝 시즌1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)~~
