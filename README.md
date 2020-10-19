@@ -16,7 +16,7 @@
 
 #### 활동
 - 2020년 공공데이터 청년인턴십 수료 (발행주체 : 한국정보화진흥원 원장)
-- ~~효성ITX 인턴: 한국벤처투자 Robotic Process Automation 업무 (발행주체 : 효성ITX 대표이사)~~
+- 효성ITX 인턴: 한국벤처투자 모태펀드와 관련하여 자펀드 및 운용사, 투자실적 등 데이터 정비 업무 (발행주체 : 효성ITX 대표이사)
 - 공공데이터 청년인턴십 직무교육 이수 (발행주체 : 한국정보화진흥원 원장)
 - 대학생 연합 빅데이터 동아리 BITAmin
 - NHN의 어플리케이션 '핑크다이어리'의 사업 확장을 위한 새로운 비즈니스 모델 제시
@@ -39,10 +39,11 @@
 - 통계학
 
 #### 외부 수강 과목 및 참고 강의
+- 유튜브) '국민대학교 김남규 교수' [텍스트마이닝](https://www.youtube.com/playlist?list=PLg_wJlcMiuKty9eeQDjn4qq5JkYRVnDMe)
 - 유튜브) 
 'SKplanet Tacademy' [토크ON 48차. Kaggle(캐글) 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfBKFj3HYWwk-jQlV8aNwgk)
-- 유튜브) 국민대학교 김남규 교수 [데이터베이스실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
-- [딥러닝 1단계: 신경망과 딥러닝 (Andrew Ng 교수 , deep learning.ai 번역 강의)](https://www.edwith.org/deeplearningai1)
+- 유튜브) '국민대학교 김남규 교수' [데이터베이스실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
+- ~~[딥러닝 1단계: 신경망과 딥러닝 (Andrew Ng 교수 , deep learning.ai 번역 강의)](https://www.edwith.org/deeplearningai1)~~
 - ~~유튜브) 'Sung Kim' [모두를 위한 딥러닝 시즌1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)~~
 - 인프런) [RDBMS Modeling](https://www.inflearn.com/course/%EA%B4%80%EA%B3%84%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-RDBMS/dashboard)
 - 인프런) [데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-SQL/dashboard)
