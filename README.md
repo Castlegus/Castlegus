@@ -39,10 +39,11 @@
 - 통계학
 
 #### 외부 수강 과목 및 참고 강의
-- 유튜브) '국민대학교 김남규 교수' [텍스트마이닝](https://www.youtube.com/playlist?list=PLg_wJlcMiuKty9eeQDjn4qq5JkYRVnDMe)
+- 유튜브) '국민대학교 김남규 교수' [데이터과학 개론](https://www.youtube.com/playlist?list=PLg_wJlcMiuKvNOT6H0dWEDmMHtfiC8yru)
+- 유튜브) '국민대학교 김남규 교수' [텍스트 마이닝](https://www.youtube.com/playlist?list=PLg_wJlcMiuKty9eeQDjn4qq5JkYRVnDMe)
 - 유튜브) 
 'SKplanet Tacademy' [토크ON 48차. Kaggle(캐글) 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfBKFj3HYWwk-jQlV8aNwgk)
-- 유튜브) '국민대학교 김남규 교수' [데이터베이스실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
+- 유튜브) '국민대학교 김남규 교수' [데이터베이스 실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
 - ~~[딥러닝 1단계: 신경망과 딥러닝 (Andrew Ng 교수 , deep learning.ai 번역 강의)](https://www.edwith.org/deeplearningai1)~~
 - ~~유튜브) 'Sung Kim' [모두를 위한 딥러닝 시즌1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)~~
 - 인프런) [RDBMS Modeling](https://www.inflearn.com/course/%EA%B4%80%EA%B3%84%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-RDBMS/dashboard)
