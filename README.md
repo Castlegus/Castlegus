@@ -39,31 +39,35 @@
 - 통계학
 
 #### 외부 수강 과목 및 참고 강의
+- ~~'SKplanet Tacademy' [토크ON 63차. 딥러닝을 위한 TensorFlow 2.0 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcq_bdv-fWT1Uw7zEBc3VMD)~~
+- ~~'SKplanet Tacademy' [토크ON 51차. 딥러닝 영상분류/영상인식 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv)~~
+- ~~'SKplanet Tacademy' [인공지능을 위한 머신러닝 알고리즘 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheuxhyGbUIpKR1EFM-o0Br1)~~
+- ~~'SKplanet Tacademy' [토크ON 53차. 딥러닝 입문에서 활용까지 케라스(Keras) | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheoq-M4EifTMPNWMw7poclK)~~
+- 'SKplanet Tacademy' [토크ON 43차. 코드로 알아보는 딥러닝 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcutlrKpdnO83LNq_yke3FS)
 - 'SKplanet Tacademy' [토크ON 50차. Scikit-Learn으로 다지는 머신러닝 기초 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcL3_nJMYx9u-nY2TggZJ0Z)
-- 유튜브) '국민대학교 김남규 교수' [데이터과학 개론](https://www.youtube.com/playlist?list=PLg_wJlcMiuKvNOT6H0dWEDmMHtfiC8yru)
-- ~~유튜브) '국민대학교 김남규 교수' [텍스트 마이닝](https://www.youtube.com/playlist?list=PLg_wJlcMiuKty9eeQDjn4qq5JkYRVnDMe)~~
-- 유튜브) 
-'SKplanet Tacademy' [토크ON 48차. Kaggle(캐글) 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfBKFj3HYWwk-jQlV8aNwgk)
-- 유튜브) '국민대학교 김남규 교수' [데이터베이스 실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
+- '국민대학교 김남규 교수' [데이터과학 개론](https://www.youtube.com/playlist?list=PLg_wJlcMiuKvNOT6H0dWEDmMHtfiC8yru)
+- ~~'국민대학교 김남규 교수' [텍스트 마이닝](https://www.youtube.com/playlist?list=PLg_wJlcMiuKty9eeQDjn4qq5JkYRVnDMe)~~
+- 'SKplanet Tacademy' [토크ON 48차. Kaggle(캐글) 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfBKFj3HYWwk-jQlV8aNwgk)
+- '국민대학교 김남규 교수' [데이터베이스 실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
 - ~~[딥러닝 1단계: 신경망과 딥러닝 (Andrew Ng 교수 , deep learning.ai 번역 강의)](https://www.edwith.org/deeplearningai1)~~
 - ~~유튜브) 'Sung Kim' [모두를 위한 딥러닝 시즌1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)~~
 - 인프런) [RDBMS Modeling](https://www.inflearn.com/course/%EA%B4%80%EA%B3%84%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-RDBMS/dashboard)
 - 인프런) [데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-SQL/dashboard)
 - 인프런) [데이터 분석을 위한 중급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%A4%91%EA%B8%89-SQL/dashboard)
 - 인프런) [데이터 분석을 위한 기초 SQL](https://www.inflearn.com/course/%EB%B0%B1%EB%AC%B8%EC%9D%B4%EB%B6%88%EC%97%AC%EC%9D%BC%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-SQL/)
-- 유튜브) '나도코딩' [파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! ](https://www.youtube.com/watch?v=yQ20jZwDjTE)
-- 유튜브) 'Sapientia a Dei' [차원축소 - 주성분분석(PCA)과 요인분석(Factor Analysis)](https://www.youtube.com/playlist?list=PLalb9l0_6WAqC_ytofaE-Q4SPsqgT3EmJ)
+- '나도코딩' [파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! ](https://www.youtube.com/watch?v=yQ20jZwDjTE)
+- 'Sapientia a Dei' [차원축소 - 주성분분석(PCA)과 요인분석(Factor Analysis)](https://www.youtube.com/playlist?list=PLalb9l0_6WAqC_ytofaE-Q4SPsqgT3EmJ)
 - 인프런) [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
 - 생활코딩) [Tensorflow1](https://opentutorials.org/course/4570)
 - 생활코딩) [머신러닝1](https://opentutorials.org/course/4548)
 - KOCW) 국민대학교 이옥연 교수님 [선형대수학 및 연습](http://www.kocw.net/home/search/kemView.do?kemId=694450)
 - KOCW) 한양대학교 이상화 교수님 [선형대수](http://www.kocw.net/home/search/kemView.do?kemId=977757)
-- 유튜브) ‘쑤튜브’ [10분 선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1)
-- 유튜브) ‘수악중독’ [(2009개정) 기하와 벡터 개념정리](https://www.youtube.com/playlist?list=PLXJ3W1lEGK8XMoCn8HVySy5DrL6rfDXTx)
-- 유튜브) 'KC대학교 빅데이터경영학과 이상철 교수' [경영통계학](https://www.youtube.com/playlist?list=PLEUKy_nwlzwGWuVyegtJ0RbBrNxa80EzZ)과 [통계분석 with SPSS](https://www.youtube.com/playlist?list=PLEUKy_nwlzwH4XXK3hhiG2huy0eOpa-Js)
-- 유튜브) ‘노경섭’ (제대로 시작하는 기초 통계학’ 저자) [제대로 시작하는 기초통계학](https://www.youtube.com/playlist?list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
-- 유튜브) '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)과 [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
-- 유튜브) ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
+- ‘쑤튜브’ [10분 선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1)
+- ‘수악중독’ [(2009개정) 기하와 벡터 개념정리](https://www.youtube.com/playlist?list=PLXJ3W1lEGK8XMoCn8HVySy5DrL6rfDXTx)
+- 'KC대학교 빅데이터경영학과 이상철 교수' [경영통계학](https://www.youtube.com/playlist?list=PLEUKy_nwlzwGWuVyegtJ0RbBrNxa80EzZ)과 [통계분석 with SPSS](https://www.youtube.com/playlist?list=PLEUKy_nwlzwH4XXK3hhiG2huy0eOpa-Js)
+- ‘노경섭’ (제대로 시작하는 기초 통계학’ 저자) [제대로 시작하는 기초통계학](https://www.youtube.com/playlist?list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
+- '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)과 [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
+- ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
 
 
 #### 자격증
