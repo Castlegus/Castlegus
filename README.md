@@ -39,6 +39,7 @@
 - 통계학
 
 #### 외부 수강 과목 및 참고 강의
+- 'SKplanet Tacademy'[토크ON 50차. Scikit-Learn으로 다지는 머신러닝 기초 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcL3_nJMYx9u-nY2TggZJ0Z)
 - 유튜브) '국민대학교 김남규 교수' [데이터과학 개론](https://www.youtube.com/playlist?list=PLg_wJlcMiuKvNOT6H0dWEDmMHtfiC8yru)
 - ~~유튜브) '국민대학교 김남규 교수' [텍스트 마이닝](https://www.youtube.com/playlist?list=PLg_wJlcMiuKty9eeQDjn4qq5JkYRVnDMe)~~
 - 유튜브) 
