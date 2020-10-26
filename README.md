@@ -43,6 +43,8 @@
 - ~~'SKplanet Tacademy' [토크ON 51차. 딥러닝 영상분류/영상인식 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv)~~
 - ~~'SKplanet Tacademy' [인공지능을 위한 머신러닝 알고리즘 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheuxhyGbUIpKR1EFM-o0Br1)~~
 - ~~'SKplanet Tacademy' [토크ON 53차. 딥러닝 입문에서 활용까지 케라스(Keras) | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheoq-M4EifTMPNWMw7poclK)~~
+- 인프런) [TensorFlow 2.0으로 배우는 딥러닝 입문](https://www.inflearn.com/course/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8)
+- 'SKplanet Tacademy' [토크ON세미나 45차. NumPy(넘파이) 기본 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhf04ToiDFvNzKL0OP4W27TW)
 - 'SKplanet Tacademy' [토크ON 43차. 코드로 알아보는 딥러닝 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcutlrKpdnO83LNq_yke3FS)
 - 'SKplanet Tacademy' [토크ON 50차. Scikit-Learn으로 다지는 머신러닝 기초 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcL3_nJMYx9u-nY2TggZJ0Z)
 - '국민대학교 김남규 교수' [데이터과학 개론](https://www.youtube.com/playlist?list=PLg_wJlcMiuKvNOT6H0dWEDmMHtfiC8yru)
@@ -50,7 +52,7 @@
 - 'SKplanet Tacademy' [토크ON 48차. Kaggle(캐글) 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfBKFj3HYWwk-jQlV8aNwgk)
 - '국민대학교 김남규 교수' [데이터베이스 실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
 - ~~[딥러닝 1단계: 신경망과 딥러닝 (Andrew Ng 교수 , deep learning.ai 번역 강의)](https://www.edwith.org/deeplearningai1)~~
-- ~~유튜브) 'Sung Kim' [모두를 위한 딥러닝 시즌1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)~~
+- ~~'Sung Kim' [모두를 위한 딥러닝 시즌1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)~~
 - 인프런) [RDBMS Modeling](https://www.inflearn.com/course/%EA%B4%80%EA%B3%84%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-RDBMS/dashboard)
 - 인프런) [데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-SQL/dashboard)
 - 인프런) [데이터 분석을 위한 중급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%A4%91%EA%B8%89-SQL/dashboard)
