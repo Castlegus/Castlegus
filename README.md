@@ -43,6 +43,7 @@
 - ~~'SKplanet Tacademy' [토크ON 51차. 딥러닝 영상분류/영상인식 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv)~~
 - ~~'SKplanet Tacademy' [인공지능을 위한 머신러닝 알고리즘 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheuxhyGbUIpKR1EFM-o0Br1)~~
 - ~~'SKplanet Tacademy' [토크ON 53차. 딥러닝 입문에서 활용까지 케라스(Keras) | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheoq-M4EifTMPNWMw7poclK)~~
+- 'SKplanet Tacademy' [토크ON 44차. Pandas로 하는 시계열 데이터분석 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhd60Qq4r2yC7xYKIhs97FfC)
 - 인프런) [TensorFlow 2.0으로 배우는 딥러닝 입문](https://www.inflearn.com/course/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8)
 - 'SKplanet Tacademy' [토크ON 72차. Pandas 기본기 다지기 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfG_gWF-DclKs6vXS6SkmQN)
 - 'SKplanet Tacademy' [토크ON 45차. NumPy(넘파이) 기본 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhf04ToiDFvNzKL0OP4W27TW)
