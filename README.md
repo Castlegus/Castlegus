@@ -83,11 +83,11 @@
 - ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
 
 
-#### 자격증
+#### 관련 자격증
 - ~~국가기술 빅데이터 분석기사~~
 - ~~정보처리기사~~
 - ~~국가공인 SQL 개발자(SQLD)~~
-- ~~국가공인 데이터분석 준전문가(ADsP)~~
+- 국가공인 데이터분석 준전문가(ADsP)
 - Microsoft Office Specialist (MOS) Expert
 
 
