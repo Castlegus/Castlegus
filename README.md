@@ -46,6 +46,7 @@
 - 통계학
 
 #### 외부 수강 과목 및 참고 강의
+- 인프런) [그로스해킹 - 데이터와 실험을 통해 성장하는 서비스를 만드는 방법](https://www.inflearn.com/course/%EA%B7%B8%EB%A1%9C%EC%8A%A4%ED%95%B4%ED%82%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%A4%ED%97%98-%EC%84%B1%EC%9E%A5-%EC%84%9C%EB%B9%84%EC%8A%A4)
 - ~~'SKplanet Tacademy' [토크ON 57차. 자연어 언어모델 ‘BERT’ | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)~~
 - 'SKplanet Tacademy' [토크ON 85차. 캐글(Kaggle) 대회 & EDA | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcAt2sm8l3BWx5DOFfhtYe4)
 - 인프런) [데이터 분석을 위한 중급 SQL 문제풀이](https://www.inflearn.com/course/sql-%EC%A4%91%EA%B8%89-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
