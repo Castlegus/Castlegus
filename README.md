@@ -46,9 +46,6 @@
 - 통계학
 
 #### 외부 수강 과목 및 참고 강의
-- ~~'SKplanet Tacademy' [토크ON 63차. 딥러닝을 위한 TensorFlow 2.0 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcq_bdv-fWT1Uw7zEBc3VMD)~~
-- ~~'SKplanet Tacademy' [토크ON 51차. 딥러닝 영상분류/영상인식 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhe5tqXV2KAeR0H-_tbn8esv)~~
-- ~~'SKplanet Tacademy' [인공지능을 위한 머신러닝 알고리즘 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheuxhyGbUIpKR1EFM-o0Br1)~~
 - ~~'SKplanet Tacademy' [토크ON 57차. 자연어 언어모델 ‘BERT’ | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD)~~
 - 'SKplanet Tacademy' [토크ON 85차. 캐글(Kaggle) 대회 & EDA | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcAt2sm8l3BWx5DOFfhtYe4)
 - 인프런) [데이터 분석을 위한 중급 SQL 문제풀이](https://www.inflearn.com/course/sql-%EC%A4%91%EA%B8%89-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
