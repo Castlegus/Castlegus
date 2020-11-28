@@ -19,6 +19,8 @@
 - 2017 산림공공데이터 활용 경진대회: 어플리케이션 '오르樂' 기획
 
 #### 공부한 책
+- SQL 전문가 가이드(2020)(개정판) (The Guide for SQL Professional, 2020 개정판)
+- 데이터 분석 전문가 가이드 (The Guide for Advanced Data Analytics Professional,ADP,ADsP)
 - 파이썬 머신러닝 완벽 가이드: 다양한 캐글 예제와 함께 기초 알고리즘부터 최신 기법까지 배우는
 - 파이썬 머신러닝 판다스 데이터 분석
 - 모두의 SQL :누구나 쉽게 배우는 데이터 분석 기초
