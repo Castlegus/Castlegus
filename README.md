@@ -56,7 +56,7 @@
 
 #### 외부 수강 과목 및 참고 강의
 - ~~'SKplanet Tacademy' [데이타 분석 캠프 3. 모델과 검증 & 앙상블 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfUsybyGJqPEszWRDYdAq2E)~~
-- ~~'SKplanet Tacademy' [데이타 분석 캠프 2. 피처 엔지니어링 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheqz0tb5HQkzTIKm59CEV4k)~~
+- 'SKplanet Tacademy' [데이타 분석 캠프 2. 피처 엔지니어링 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheqz0tb5HQkzTIKm59CEV4k)
 - '긱뉴스' [최신 데이터 인프라 이해하기](https://www.youtube.com/playlist?list=PLL-_zEJctPoJ92HmbGxFv1Pv_ugsggGD2)
 - 'SKplanet Tacademy' [토크ON 70차. (데이터분석가를 위한) RDBMS와 SQL 맛보기 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
 - 'VizLab' [웰컴 투 태블로 월드](https://www.inflearn.com/course/%ED%83%9C%EB%B8%94%EB%A1%9C%EA%B0%95%EC%A2%8C-1)
