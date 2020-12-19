@@ -73,7 +73,6 @@
 - 'SKplanet Tacademy' [토크ON 43차. 코드로 알아보는 딥러닝 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcutlrKpdnO83LNq_yke3FS)
 - 'SKplanet Tacademy' [토크ON 50차. Scikit-Learn으로 다지는 머신러닝 기초 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcL3_nJMYx9u-nY2TggZJ0Z)
 - '국민대학교 김남규 교수' [데이터과학 개론](https://www.youtube.com/playlist?list=PLg_wJlcMiuKvNOT6H0dWEDmMHtfiC8yru)
-- ~~'국민대학교 김남규 교수' [텍스트 마이닝](https://www.youtube.com/playlist?list=PLg_wJlcMiuKty9eeQDjn4qq5JkYRVnDMe)~~
 - 'SKplanet Tacademy' [토크ON 48차. Kaggle(캐글) 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfBKFj3HYWwk-jQlV8aNwgk)
 - '국민대학교 김남규 교수' [데이터베이스 실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
 - ~~[딥러닝 1단계: 신경망과 딥러닝 (Andrew Ng 교수 , deep learning.ai 번역 강의)](https://www.edwith.org/deeplearningai1)~~
