@@ -53,6 +53,7 @@
 - 국가공인 SQL 개발자(SQLD)
 - 국가공인 데이터분석 준전문가(ADsP)
 - Microsoft Office Specialist (MOS) Expert
+- 
 
 #### 외부 수강 과목 및 참고 강의
 - 'PLANIT DATAV' [[Full ver.] 플랜잇 Tableau 교육](https://www.youtube.com/playlist?list=PL6ICdBRB3Rx3AJhYQjMMoChdPHoWCUCxR)
