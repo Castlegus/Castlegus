@@ -56,9 +56,10 @@
 - 
 
 #### 외부 수강 과목 및 참고 강의
+- '네이버 부스트코스' [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112)
 - 인프런) [구글 애널리틱스4 (GA4) 미니 코스](https://www.inflearn.com/course/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A44/dashboard)
 - '제주베이스코딩캠프' [스타트업 A to Z](https://www.youtube.com/playlist?list=PLkfUwwo13dlUiD1OVwZr3Sg4H-NYFCprd)
-- '네이버 부스트코스' [한번에 끝내는 디지털 마케팅 전 과정](https://www.boostcourse.org/dm214/joinLectures/23198)
+- '네이버 부스트코스' [한번에 끝내는 디지털 마케팅 전 과정](https://www.boostcourse.org/dm214)
 - 'PLANIT DATAV' [[Full ver.] 플랜잇 Tableau 교육](https://www.youtube.com/playlist?list=PL6ICdBRB3Rx3AJhYQjMMoChdPHoWCUCxR)
 - ~~'SKplanet Tacademy' [데이타 분석 캠프 3. 모델과 검증 & 앙상블 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfUsybyGJqPEszWRDYdAq2E)~~
 - 패스트캠퍼스) [데이터 사이언티스트가 회사를 움직이는 법](https://www.fastcampus.co.kr/data_red_hyh)
