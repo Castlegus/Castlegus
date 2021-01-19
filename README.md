@@ -11,7 +11,7 @@
 5. AI 시스템 구축 업체 '애니파이브' 업무회의 참석 - 머신러닝 기반 추천시스템 논의
 - 2020.8 ~ 현재 숭실대학교 창업동아리 '바로다스리기'팀 명상&헬스케어 어플리케이션 '까미' 데이터분석/기획
 - 2020.8 공공데이터 청년인턴십 직무교육 이수 (발행주체 : 한국정보화진흥원 원장)
-- 2020.8 ~ 현재 대학생 연합 빅데이터 동아리 BITAmin
+- 2020.8 ~ 현재 대학생 연합 빅데이터 동아리 BITAmin: 시계열데이터, AutoML 발표
 - 2020.3 ~ 2020.6 NHN과 함께하는 캡스톤 디자인: NHN의 어플리케이션 '핑크 다이어리'의 DAU 개선을 위한 뉴 비즈니스 모델 제시
 - 2020.1 ~ 2020.2 삼성공인중개사 소속 공인중개사
 - 2019.9 ~ 2020.2 부동산&경제 학회 NewLas: 공공데이터를 활용한 '상가 부동산 입지 선정' 프로젝트
@@ -69,7 +69,7 @@
 - '제주베이스코딩캠프' [스타트업 A to Z](https://www.youtube.com/playlist?list=PLkfUwwo13dlUiD1OVwZr3Sg4H-NYFCprd)
 - '네이버 부스트코스' [한번에 끝내는 디지털 마케팅 전 과정](https://www.boostcourse.org/dm214)
 - 'PLANIT DATAV' [[Full ver.] 플랜잇 Tableau 교육](https://www.youtube.com/playlist?list=PL6ICdBRB3Rx3AJhYQjMMoChdPHoWCUCxR)
-- ~~'SKplanet Tacademy' [데이타 분석 캠프 3. 모델과 검증 & 앙상블 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfUsybyGJqPEszWRDYdAq2E)~~
+- 'SKplanet Tacademy' [데이타 분석 캠프 3. 모델과 검증 & 앙상블 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfUsybyGJqPEszWRDYdAq2E)
 - 패스트캠퍼스) [데이터 사이언티스트가 회사를 움직이는 법](https://www.fastcampus.co.kr/data_red_hyh)
 - 'SKplanet Tacademy' [데이타 분석 캠프 2. 피처 엔지니어링 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheqz0tb5HQkzTIKm59CEV4k)
 - '긱뉴스' [최신 데이터 인프라 이해하기](https://www.youtube.com/playlist?list=PLL-_zEJctPoJ92HmbGxFv1Pv_ugsggGD2)
