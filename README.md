@@ -60,13 +60,13 @@
 - 컴퓨팅적 사고
 - 통계학
 
-#### 관련 자격증
+#### 보유 자격증
 - ~~정보처리기사~~
 - ~~국가기술 빅데이터 분석기사~~
 - 국가공인 SQL 개발자(SQLD)
 - 국가공인 데이터분석 준전문가(ADsP)
 - Microsoft Office Specialist (MOS) Expert
-- 
+- 국가전문자격 공인중개사(Licensed Real Estate Agent)
 
 #### 외부 수강 과목 및 참고 강의
 - 'AB180 Academy [Amplitude 101](https://academy.ab180.co/)
