@@ -107,6 +107,7 @@
 - 인프런) [데이터 분석을 위한 기초 SQL](https://www.inflearn.com/course/%EB%B0%B1%EB%AC%B8%EC%9D%B4%EB%B6%88%EC%97%AC%EC%9D%BC%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-SQL/)
 
 #### Data Science
+- 'SKplanet Tacademy' [토크ON 82차. 추천시스템 분석 입문하기 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdkOVTZWJJIy8rv6rQaZNNc)
 - 'SKplanet Tacademy' [데이타 분석 캠프 3. 모델과 검증 & 앙상블 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfUsybyGJqPEszWRDYdAq2E)
 - 'SKplanet Tacademy' [데이타 분석 캠프 2. 피처 엔지니어링 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheqz0tb5HQkzTIKm59CEV4k)
 - 'SKplanet Tacademy' [데이타 분석 캠프 1. 첫번째 kaggle & EDA | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdSd8qt20neH1hHYjLWmV3w)
