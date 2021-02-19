@@ -3,6 +3,12 @@
 
 ### 활동
 - 2021.1 ~ 현재 창업팀 '콘콘'팀 굿즈 커뮤니티 '오즈의제작소' 데이터분석
+- 2020.8 ~ 현재 대학생 연합 빅데이터 동아리 BITAmin: 시계열데이터, AutoML 발표
+- 2020.8 ~ 2021.1 숭실대학교 창업동아리 '바로다스리기'팀 명상&헬스케어 어플리케이션 '까미' 데이터분석/기획운영:
+1. 스마트폰 심박수 측정을 이용한 명상 컨텐츠 기획
+2. 데이터가 흐르는 조직 만들기(그로스해킹) 발표
+3. Agile적 방식으로 ESG를 고려한 비즈니스 모델 논의
+4. Amplitude, Google Analytics, Google Bigquery, Tableau, Redash 등 툴 도입 검토
 - 2021.1 공공데이터 청년인턴 전문교육(중고급) 이수
 - 2020.12 공공데이터 청년인턴십 수료 (발행주체 : 한국정보화진흥원 원장)
 - 2020.9 ~ 2020. 12 효성ITX 인턴: 
@@ -11,13 +17,7 @@
 3. 파이썬을 활용한 공공데이터 생산 효율성 검토
 4. 모태자펀드 규약(PDF파일 등) 내용 DB화 작업 보조
 5. AI 시스템 구축 업체 '애니파이브' 업무회의 참석 - 머신러닝 기반 추천시스템 논의
-- 2020.8 ~ 2021.1 숭실대학교 창업동아리 '바로다스리기'팀 명상&헬스케어 어플리케이션 '까미' 데이터분석/기획:
-1. 스마트폰 심박수 측정을 이용한 명상 컨텐츠 기획
-2. 데이터가 흐르는 조직 만들기(그로스해킹) 발표
-3. Agile적 방식으로 ESG를 고려한 비즈니스 모델 논의
-4. Amplitude, Google Analytics, Google Bigquery, Tableau, Redash 등 툴 도입 검토
 - 2020.8 공공데이터 청년인턴십 직무교육 이수 (발행주체 : 한국정보화진흥원 원장)
-- 2020.8 ~ 현재 대학생 연합 빅데이터 동아리 BITAmin: 시계열데이터, AutoML 발표
 - 2020.3 ~ 2020.6 NHN과 함께하는 캡스톤 디자인: NHN의 어플리케이션 '핑크 다이어리'의 DAU 개선을 위한 뉴 비즈니스 모델 제시
 - 2020.1 ~ 2020.2 삼성공인중개사 소속 공인중개사
 - 2019.9 ~ 2020.2 부동산&경제 학회 NewLas:
@@ -100,6 +100,8 @@
 - '긱뉴스' [최신 데이터 인프라 이해하기](https://www.youtube.com/playlist?list=PLL-_zEJctPoJ92HmbGxFv1Pv_ugsggGD2)
 
 #### Data Analysis
+- [마이리얼트립 그로스리드 양승화님의 '그로스해킹'출간 기념 북토크](https://edu.ppss.kr/category/Booktalk/course/booktalk-yangseungwha-growth-lead)
+- [Wanted Career Talk #8. DATA 누구에게나 처음은 있었다.](https://www.wanted.co.kr/events/careertalk08)
 - 'AB180 Academy' [Amplitude 101](https://academy.ab180.co/)
 - 인프런) [그로스해킹 - 데이터와 실험을 통해 성장하는 서비스를 만드는 방법](https://www.inflearn.com/course/%EA%B7%B8%EB%A1%9C%EC%8A%A4%ED%95%B4%ED%82%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%A4%ED%97%98-%EC%84%B1%EC%9E%A5-%EC%84%9C%EB%B9%84%EC%8A%A4)
 - 'PLANIT DATAV' [[Full ver.] 플랜잇 Tableau 교육](https://www.youtube.com/playlist?list=PL6ICdBRB3Rx3AJhYQjMMoChdPHoWCUCxR)
