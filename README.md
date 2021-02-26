@@ -142,7 +142,7 @@
 #### 수학
 - 'Sapientia a Dei' [차원축소 - 주성분분석(PCA)과 요인분석(Factor Analysis)](https://www.youtube.com/playlist?list=PLalb9l0_6WAqC_ytofaE-Q4SPsqgT3EmJ)
 - KOCW) 국민대학교 이옥연 교수님 [선형대수학 및 연습](http://www.kocw.net/home/search/kemView.do?kemId=694450)
-- KOCW) 한양대학교 이상화 교수님 [선형대수](http://www.kocw.net/home/search/kemView.do?kemId=977757)
+~~- KOCW) 한양대학교 이상화 교수님 [선형대수](http://www.kocw.net/home/search/kemView.do?kemId=977757)~~
 - ‘쑤튜브’ [10분 선형대수](https://www.youtube.com/playlist?list=PLdEdazAwz5Q_n47tqf0QY94ASCmWqeGX1)
 - ‘수악중독’ [(2009개정) 기하와 벡터 개념정리](https://www.youtube.com/playlist?list=PLXJ3W1lEGK8XMoCn8HVySy5DrL6rfDXTx)
 
