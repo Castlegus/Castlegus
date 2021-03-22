@@ -7,7 +7,8 @@
  2) 웹 로그 분석: 구글 애널리틱스
  3) 웹 행동 분석: Hotjar
 - 2020.8 ~ 현재 대학생 연합 빅데이터 동아리 BITAmin: 
- 1) 1학기 발표: 워드클라우드, 시계열데이터, AutoML, 캐글 성인 인구조사 소득 예측 대회
+ 1) 1학기 발표: 다양한 시각화(워드클라우드 등), 시계열데이터, AutoML, 캐글 성인 인구조사 소득 예측 대회
+ 2) 2학기 발표: GMM(가우시안 혼합 모델)
 - 2020.8 ~ 2021.1 숭실대학교 창업동아리 '바로다스리기'팀 명상&헬스케어 어플리케이션 '까미' 데이터분석/기획운영:
  1) 스마트폰 심박수 측정을 이용한 명상 컨텐츠 기획
  2) 데이터가 흐르는 조직 만들기(그로스해킹) 발표
@@ -36,8 +37,8 @@
 - 2015.7 ~ 2015.8 현대해상 사무보조: 의료 데이터 분류
 
 ### 공부한 책
-- Do it! (사용자의 행동을 분석해 성과를 높이는) 구글 애널리틱스 입문 --- (공부중)
-- 마케터를 위한 구글 애널리틱스 --- (공부중)
+- Do it! (사용자의 행동을 분석해 성과를 높이는) 구글 애널리틱스 입문
+- 마케터를 위한 구글 애널리틱스
 - 데이터 분석을 위한 SQL 레시피 :데이터 처리부터 매출·유저 파악, 리포팅 등 각종 데이터 분석과 활용까지 --- (공부중)
 - 구글 빅쿼리 완벽 가이드 :빅데이터, AI, 머신러닝 엔지니어를 위한 대용량 데이터 분석 도구 --- (공부중)
 - SQL 전문가 가이드(2020)(개정판) (The Guide for SQL Professional, 2020 개정판)
@@ -77,7 +78,7 @@
 - 국가전문자격 공인중개사(Licensed Real Estate Agent)
 
 ### 읽은 책
-- 그로스 해킹 =Growth hacking :데이터와 실험을 통해 성장하는 서비스를 만드는 방법 --- (읽는중)
+- 그로스 해킹 =Growth hacking :데이터와 실험을 통해 성장하는 서비스를 만드는 방법
 - (한 장으로 끝내는) 비즈니스 모델 100 =Business model 100 : 끌리는 사업, 남다른 혁신, 지속 가능한 수익을 위한 모든 것
 - 진화된 마케팅 그로스 해킹 :프로세스와 실행 전략 바이블
 - 모바일 미래보고서 2021 =Mobile future report :온택트
@@ -153,6 +154,7 @@
 - ‘노경섭’ (제대로 시작하는 기초 통계학’ 저자) [제대로 시작하는 기초통계학](https://www.youtube.com/playlist?list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
 
 #### 프로그래밍
+- '생활코딩' [JavaScript ](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
 - '김왼손의 왼손코딩' [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
 - '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)
 - ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
