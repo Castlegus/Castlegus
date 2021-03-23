@@ -37,10 +37,10 @@
 - 2015.7 ~ 2015.8 현대해상 사무보조: 의료 데이터 분류
 
 ### 공부한 책
-- Do it! (사용자의 행동을 분석해 성과를 높이는) 구글 애널리틱스 입문
-- 마케터를 위한 구글 애널리틱스
 - 데이터 분석을 위한 SQL 레시피 :데이터 처리부터 매출·유저 파악, 리포팅 등 각종 데이터 분석과 활용까지 --- (공부중)
 - 구글 빅쿼리 완벽 가이드 :빅데이터, AI, 머신러닝 엔지니어를 위한 대용량 데이터 분석 도구 --- (공부중)
+- Do it! (사용자의 행동을 분석해 성과를 높이는) 구글 애널리틱스 입문
+- 마케터를 위한 구글 애널리틱스
 - SQL 전문가 가이드(2020)(개정판) (The Guide for SQL Professional, 2020 개정판)
 - 데이터 분석 전문가 가이드 (The Guide for Advanced Data Analytics Professional,ADP,ADsP)
 - 파이썬 머신러닝 완벽 가이드: 다양한 캐글 예제와 함께 기초 알고리즘부터 최신 기법까지 배우는
@@ -154,7 +154,7 @@
 - ‘노경섭’ (제대로 시작하는 기초 통계학’ 저자) [제대로 시작하는 기초통계학](https://www.youtube.com/playlist?list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
 
 #### 프로그래밍
-- '생활코딩' [JavaScript 입문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
+- '생활코딩' [JavaScript 입문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) --- (공부중)
 - '김왼손의 왼손코딩' [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
 - '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)
 - ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
