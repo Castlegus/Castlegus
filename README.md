@@ -106,6 +106,7 @@
 - '긱뉴스' [최신 데이터 인프라 이해하기](https://www.youtube.com/playlist?list=PLL-_zEJctPoJ92HmbGxFv1Pv_ugsggGD2)
 
 #### Data Analysis
+- 인프런) [배워서 바로 적용하는 실무SQL](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4-sql)
 - [마이리얼트립 그로스리드 양승화님의 '그로스해킹'출간 기념 북토크](https://edu.ppss.kr/category/Booktalk/course/booktalk-yangseungwha-growth-lead)
 - [Wanted Career Talk #8. DATA 누구에게나 처음은 있었다.](https://www.wanted.co.kr/events/careertalk08)
 - 'AB180 Academy' [Amplitude 101](https://academy.ab180.co/)
