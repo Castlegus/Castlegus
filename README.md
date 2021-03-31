@@ -13,7 +13,8 @@
  1) 스마트폰 심박수 측정을 이용한 명상 컨텐츠 기획
  2) 데이터가 흐르는 조직 만들기(그로스해킹) 발표
  3) Agile적 방식으로 ESG를 고려한 비즈니스 모델 논의
- 4) Amplitude, Google Analytics, Google Bigquery, Tableau, Redash 등 툴 도입 검토 
+ 4) Amplitude, Google Analytics, Google Bigquery, Tableau, Redash 등 툴 도입 검토
+ 5) [홍보 영상 참여](https://www.youtube.com/watch?v=a_64yepF3Pg)
 - 2021.1 공공데이터 청년인턴 전문교육(중고급) 이수
 - 2020.12 공공데이터 청년인턴십 수료 (발행주체 : 한국정보화진흥원 원장)
 - 2020.9 ~ 2020. 12 효성ITX 인턴: 
