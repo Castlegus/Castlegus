@@ -101,14 +101,6 @@
 
 ### 외부 수강 과목 및 참고 강의
 
-#### 기타
-- ~~'네이버 부스트코스' [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112)~~
-- 인프런) [구글 애널리틱스4 (GA4) 미니 코스](https://www.inflearn.com/course/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A44/dashboard)
-- '제주베이스코딩캠프' [스타트업 A to Z](https://www.youtube.com/playlist?list=PLkfUwwo13dlUiD1OVwZr3Sg4H-NYFCprd)
-- '네이버 부스트코스' [한번에 끝내는 디지털 마케팅 전 과정](https://www.boostcourse.org/dm214)
-- 패스트캠퍼스) [데이터 사이언티스트가 회사를 움직이는 법](https://www.fastcampus.co.kr/data_red_hyh)
-- '긱뉴스' [최신 데이터 인프라 이해하기](https://www.youtube.com/playlist?list=PLL-_zEJctPoJ92HmbGxFv1Pv_ugsggGD2)
-
 #### Data Analysis
 - 인프런) [배워서 바로 적용하는 실무SQL](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4-sql)
 - [마이리얼트립 그로스리드 양승화님의 '그로스해킹'출간 기념 북토크](https://edu.ppss.kr/category/Booktalk/course/booktalk-yangseungwha-growth-lead)
@@ -124,6 +116,7 @@
 - 인프런) [데이터 분석을 위한 기초 SQL](https://www.inflearn.com/course/%EB%B0%B1%EB%AC%B8%EC%9D%B4%EB%B6%88%EC%97%AC%EC%9D%BC%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-SQL/)
 
 #### Data Science
+- 패스트캠퍼스) [데이터 사이언티스트가 회사를 움직이는 법](https://www.fastcampus.co.kr/data_red_hyh)
 - 'SKplanet Tacademy' [토크ON 82차. 추천시스템 분석 입문하기 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdkOVTZWJJIy8rv6rQaZNNc)
 - 'SKplanet Tacademy' [데이타 분석 캠프 3. 모델과 검증 & 앙상블 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfUsybyGJqPEszWRDYdAq2E)
 - 'SKplanet Tacademy' [데이타 분석 캠프 2. 피처 엔지니어링 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheqz0tb5HQkzTIKm59CEV4k)
@@ -164,3 +157,10 @@
 - '김왼손의 왼손코딩' [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
 - '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)
 - ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
+
+#### 기타
+- ~~'네이버 부스트코스' [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112)~~
+- 인프런) [구글 애널리틱스4 (GA4) 미니 코스](https://www.inflearn.com/course/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A44/dashboard)
+- '제주베이스코딩캠프' [스타트업 A to Z](https://www.youtube.com/playlist?list=PLkfUwwo13dlUiD1OVwZr3Sg4H-NYFCprd)
+- '네이버 부스트코스' [한번에 끝내는 디지털 마케팅 전 과정](https://www.boostcourse.org/dm214)
+- '긱뉴스' [최신 데이터 인프라 이해하기](https://www.youtube.com/playlist?list=PLL-_zEJctPoJ92HmbGxFv1Pv_ugsggGD2)
