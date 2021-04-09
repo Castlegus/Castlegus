@@ -159,6 +159,7 @@
 - ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
 
 #### 기타
+- 'AB180' [그로스 해킹, 데이터를 기반으로 성장하기](https://www.wanted.co.kr/events/livetalk22)
 - ~~'네이버 부스트코스' [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112)~~
 - 인프런) [구글 애널리틱스4 (GA4) 미니 코스](https://www.inflearn.com/course/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A44/dashboard)
 - '제주베이스코딩캠프' [스타트업 A to Z](https://www.youtube.com/playlist?list=PLkfUwwo13dlUiD1OVwZr3Sg4H-NYFCprd)
