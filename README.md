@@ -103,8 +103,8 @@
 ### 외부 수강 과목 및 참고 강의
 
 #### Data Analysis
+- 'AB180' [그로스 해킹, 데이터를 기반으로 성장하기](https://www.wanted.co.kr/events/livetalk22)
 - 인프런) [배워서 바로 적용하는 실무SQL](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4-sql)
-- [마이리얼트립 그로스리드 양승화님의 '그로스해킹'출간 기념 북토크](https://edu.ppss.kr/category/Booktalk/course/booktalk-yangseungwha-growth-lead)
 - [Wanted Career Talk #8. DATA 누구에게나 처음은 있었다.](https://www.wanted.co.kr/events/careertalk08)
 - 'AB180 Academy' [Amplitude 101](https://academy.ab180.co/)
 - 인프런) [그로스해킹 - 데이터와 실험을 통해 성장하는 서비스를 만드는 방법](https://www.inflearn.com/course/%EA%B7%B8%EB%A1%9C%EC%8A%A4%ED%95%B4%ED%82%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%A4%ED%97%98-%EC%84%B1%EC%9E%A5-%EC%84%9C%EB%B9%84%EC%8A%A4)
@@ -122,7 +122,6 @@
 - 'SKplanet Tacademy' [데이타 분석 캠프 3. 모델과 검증 & 앙상블 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfUsybyGJqPEszWRDYdAq2E)
 - 'SKplanet Tacademy' [데이타 분석 캠프 2. 피처 엔지니어링 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheqz0tb5HQkzTIKm59CEV4k)
 - 'SKplanet Tacademy' [데이타 분석 캠프 1. 첫번째 kaggle & EDA | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdSd8qt20neH1hHYjLWmV3w)
-- 인프런) [크롤링기초 부트캠프](https://www.inflearn.com/course/Python-crawling-basic)
 - 'SKplanet Tacademy' [토크ON 53차. 딥러닝 입문에서 활용까지 케라스(Keras) | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheoq-M4EifTMPNWMw7poclK)
 - 'SKplanet Tacademy' [토크ON 44차. Pandas로 하는 시계열 데이터분석 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhd60Qq4r2yC7xYKIhs97FfC)
 - 인프런) [TensorFlow 2.0으로 배우는 딥러닝 입문](https://www.inflearn.com/course/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8)
@@ -153,15 +152,16 @@
 - 'KC대학교 빅데이터경영학과 이상철 교수' [경영통계학](https://www.youtube.com/playlist?list=PLEUKy_nwlzwGWuVyegtJ0RbBrNxa80EzZ)
 - ‘노경섭’ (제대로 시작하는 기초 통계학’ 저자) [제대로 시작하는 기초통계학](https://www.youtube.com/playlist?list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
 
-#### 
+#### 프로그래밍 언어
 - '생활코딩' [JavaScript 입문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) --- (공부중)
 - '김왼손의 왼손코딩' [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
 - '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)
 - ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
 
 #### 기타
+- 인프런) [크롤링기초 부트캠프](https://www.inflearn.com/course/Python-crawling-basic)
 - '생활코딩' [WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)
-- 'AB180' [그로스 해킹, 데이터를 기반으로 성장하기](https://www.wanted.co.kr/events/livetalk22)
+- [마이리얼트립 그로스리드 양승화님의 '그로스해킹'출간 기념 북토크](https://edu.ppss.kr/category/Booktalk/course/booktalk-yangseungwha-growth-lead)
 - ~~'네이버 부스트코스' [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112)~~
 - 인프런) [구글 애널리틱스4 (GA4) 미니 코스](https://www.inflearn.com/course/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A44/dashboard)
 - '제주베이스코딩캠프' [스타트업 A to Z](https://www.youtube.com/playlist?list=PLkfUwwo13dlUiD1OVwZr3Sg4H-NYFCprd)
