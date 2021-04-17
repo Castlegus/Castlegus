@@ -41,7 +41,7 @@
 - ~~구글 빅쿼리 완벽 가이드 :빅데이터, AI, 머신러닝 엔지니어를 위한 대용량 데이터 분석 도구~~
 -	(마케팅 성공률을 높여주는) 구글 애널리틱스 =Google Analytics :최신 기법과 검증된 실전 예제로 배우는 구글 마케팅 플랫폼 완벽 활용 가이드 --- (공부중)
 - 데이터 분석을 위한 SQL 레시피 :데이터 처리부터 매출·유저 파악, 리포팅 등 각종 데이터 분석과 활용까지 --- (공부중)
-- 구글 애널리틱스 실전 활용법 --- (공부중)
+- 구글 애널리틱스 실전 활용법: 현직 구글 애널리틱스 컨설턴트가 알려주는 --- (공부중)
 - 구글 애널리틱스 완벽 입문 :한 권으로 끝내는 구글 애널리틱스 ＋ 구글 태그 매니저 실무 활용법
 - Do it! (사용자의 행동을 분석해 성과를 높이는) 구글 애널리틱스 입문
 - 마케터를 위한 구글 애널리틱스
@@ -154,6 +154,7 @@
 
 #### 프로그래밍 언어
 - '생활코딩' [JavaScript 입문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) --- (공부중)
+- '생활코딩' [WEB2-JavaScript](https://www.youtube.com/playlist?list=PLuHgQVnccGMBB348PWRN0fREzYcYgFybf) --- (공부중)
 - '김왼손의 왼손코딩' [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
 - '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)
 - ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
