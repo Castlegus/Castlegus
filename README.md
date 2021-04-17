@@ -153,7 +153,7 @@
 - 'KC대학교 빅데이터경영학과 이상철 교수' [경영통계학](https://www.youtube.com/playlist?list=PLEUKy_nwlzwGWuVyegtJ0RbBrNxa80EzZ)
 - ‘노경섭’ (제대로 시작하는 기초 통계학’ 저자) [제대로 시작하는 기초통계학](https://www.youtube.com/playlist?list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
 
-#### 프로그래밍
+#### 
 - '생활코딩' [JavaScript 입문](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) --- (공부중)
 - '김왼손의 왼손코딩' [[초급] 유기농냠냠파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYypeEoFNTfSHdFL5WRLAfmmm)
 - '김왼손의 왼손코딩' [[입문]한입에 쏙 파이썬](https://www.youtube.com/playlist?list=PLGPF8gvWLYyontH0PECIUFFUdvATXWQEL)
