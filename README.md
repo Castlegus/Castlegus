@@ -39,6 +39,7 @@
 
 ### 공부한 책
 - ~~구글 빅쿼리 완벽 가이드 :빅데이터, AI, 머신러닝 엔지니어를 위한 대용량 데이터 분석 도구~~
+- (이야기로 배우는) 구글 빅쿼리 :데이터를 빠르고 효율적으로 분석하는 방법 --- (공부중)
 -	(마케팅 성공률을 높여주는) 구글 애널리틱스 =Google Analytics :최신 기법과 검증된 실전 예제로 배우는 구글 마케팅 플랫폼 완벽 활용 가이드 --- (공부중)
 - 데이터 분석을 위한 SQL 레시피 :데이터 처리부터 매출·유저 파악, 리포팅 등 각종 데이터 분석과 활용까지 --- (공부중)
 - 구글 애널리틱스 실전 활용법: 현직 구글 애널리틱스 컨설턴트가 알려주는
@@ -160,8 +161,8 @@
 - ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
 
 #### 기타
-- 인프런) [크롤링기초 부트캠프](https://www.inflearn.com/course/Python-crawling-basic)
 - '생활코딩' [WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)
+- 인프런) [크롤링기초 부트캠프](https://www.inflearn.com/course/Python-crawling-basic)
 - [마이리얼트립 그로스리드 양승화님의 '그로스해킹'출간 기념 북토크](https://edu.ppss.kr/category/Booktalk/course/booktalk-yangseungwha-growth-lead)
 - ~~'네이버 부스트코스' [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112)~~
 - 인프런) [구글 애널리틱스4 (GA4) 미니 코스](https://www.inflearn.com/course/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A44/dashboard)
