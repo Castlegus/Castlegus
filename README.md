@@ -138,6 +138,7 @@
 - 생활코딩) [머신러닝1](https://opentutorials.org/course/4548)
 
 #### 데이터베이스
+- '박재호' [즐겁게 배우는 SQL](https://www.youtube.com/playlist?list=PLdntWJk2tJPLinuRXcokohNLgc83ejwUt)
 - '국민대학교 김남규 교수' [데이터베이스 실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
 - 인프런) [RDBMS Modeling](https://www.inflearn.com/course/%EA%B4%80%EA%B3%84%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-RDBMS/dashboard)
 
