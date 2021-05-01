@@ -104,6 +104,7 @@
 ### 외부 수강 과목 및 참고 강의
 
 #### Data Analysis
+- 패스트캠퍼스) [GA4 탑재, 구글 애널리틱스 끝장내기 올인원 패키지](https://fastcampus.co.kr/mktg_online_gafour)
 - 'AB180' [그로스 해킹, 데이터를 기반으로 성장하기](https://www.wanted.co.kr/events/livetalk22)
 - 인프런) [배워서 바로 적용하는 실무SQL](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4-sql)
 - [Wanted Career Talk #8. DATA 누구에게나 처음은 있었다.](https://www.wanted.co.kr/events/careertalk08)
