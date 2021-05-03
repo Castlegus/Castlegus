@@ -113,10 +113,11 @@
 - 'PLANIT DATAV' [[Full ver.] 플랜잇 Tableau 교육](https://www.youtube.com/playlist?list=PL6ICdBRB3Rx3AJhYQjMMoChdPHoWCUCxR)
 - 'VizLab' [웰컴 투 태블로 월드](https://www.inflearn.com/course/%ED%83%9C%EB%B8%94%EB%A1%9C%EA%B0%95%EC%A2%8C-1)
 - 'SKplanet Tacademy' [토크ON 70차. (데이터분석가를 위한) RDBMS와 SQL 맛보기 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheGuumYb91mCiRRpOFjErZd)
-- 인프런) [데이터 분석을 위한 중급 SQL 문제풀이](https://www.inflearn.com/course/sql-%EC%A4%91%EA%B8%89-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
-- 인프런) [데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-SQL/dashboard)
-- 인프런) [데이터 분석을 위한 중급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%A4%91%EA%B8%89-SQL/dashboard)
-- 인프런) [데이터 분석을 위한 기초 SQL](https://www.inflearn.com/course/%EB%B0%B1%EB%AC%B8%EC%9D%B4%EB%B6%88%EC%97%AC%EC%9D%BC%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-SQL/)
+- 인프런) [[백문이불여일타] 데이터 분석을 위한 고급 SQL 문제풀이](https://www.inflearn.com/course/sql-%EA%B3%A0%EA%B8%89-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
+- 인프런) [[백문이불여일타] 데이터 분석을 위한 중급 SQL 문제풀이](https://www.inflearn.com/course/sql-%EC%A4%91%EA%B8%89-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
+- 인프런) [[백문이불여일타] 데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-SQL/)
+- 인프런) [[백문이불여일타] 데이터 분석을 위한 중급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%A4%91%EA%B8%89-SQL/)
+- 인프런) [[백문이불여일타] 데이터 분석을 위한 기초 SQL](https://www.inflearn.com/course/%EB%B0%B1%EB%AC%B8%EC%9D%B4%EB%B6%88%EC%97%AC%EC%9D%BC%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-SQL/)
 
 #### Data Science
 - 패스트캠퍼스) [데이터 사이언티스트가 회사를 움직이는 법](https://www.fastcampus.co.kr/data_red_hyh)
