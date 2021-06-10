@@ -84,7 +84,7 @@
 - 국가전문자격 공인중개사(Licensed Real Estate Agent)
 
 ### 읽은 책
-- 끌리는 컨셉의 법칙 :세계적 히트상품 속 정교한 컨셉의 비밀 17 --- (읽는중)
+- 끌리는 컨셉의 법칙 :세계적 히트상품 속 정교한 컨셉의 비밀 17
 - 그로스 해킹 =Growth hacking :데이터와 실험을 통해 성장하는 서비스를 만드는 방법
 - (한 장으로 끝내는) 비즈니스 모델 100 =Business model 100 : 끌리는 사업, 남다른 혁신, 지속 가능한 수익을 위한 모든 것
 - 진화된 마케팅 그로스 해킹 :프로세스와 실행 전략 바이블
@@ -142,6 +142,7 @@
 - 생활코딩) [머신러닝1](https://opentutorials.org/course/4548)
 
 #### 데이터베이스
+- 생활코딩) [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
 - '박재호' [즐겁게 배우는 SQL](https://www.youtube.com/playlist?list=PLdntWJk2tJPLinuRXcokohNLgc83ejwUt)
 - '국민대학교 김남규 교수' [데이터베이스 실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
 - 인프런) [RDBMS Modeling](https://www.inflearn.com/course/%EA%B4%80%EA%B3%84%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-RDBMS/dashboard)
