@@ -167,6 +167,7 @@
 - ‘나도코딩' [파이썬 코딩 무료 강의 (기본편)](https://www.youtube.com/watch?v=kWiCuklohdY&t=361s)
 
 #### 기타
+- 인프런) [프로들만의 차별화된 엑셀 데이터 분석과 차트 시각화](https://www.inflearn.com/course/excel-%EC%97%91%EC%85%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/) --- (공부중)
 - 인프런) [엑셀 시작하기 : EXCEL 입문(Inflearn Original)](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EC%9E%85%EB%AC%B8-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90/dashboard)
 - '생활코딩' [WEB1- HTML & Internet](https://www.youtube.com/playlist?list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb)
 - 인프런) [크롤링기초 부트캠프](https://www.inflearn.com/course/Python-crawling-basic)
