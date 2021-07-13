@@ -76,8 +76,6 @@
 - 통계학
 
 ### 보유 자격증
-- ~~정보처리기사~~
-- ~~국가기술 빅데이터 분석기사~~
 - 국가공인 SQL 개발자(SQLD)
 - 국가공인 데이터분석 준전문가(ADsP)
 - Microsoft Office Specialist (MOS) Expert
