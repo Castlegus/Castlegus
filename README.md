@@ -115,6 +115,7 @@
 ### 외부 수강 과목 및 참고 강의
 
 #### Data Analysis
+- Class101) [태블로, 설치부터 대시보드까지: 데이터 시각화 올인원 패키지](https://class101.net/products/hrdJP4TPbEae4sUrVOxZ)
 - '네이버 부스트코스' [데이터 시각화를 위한 태블로](https://www.boostcourse.org/ds121) --- (수강중)
 - 인프런) [[백문이불여일타] 데이터 분석을 위한 SQL 실전편](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-sql-%EC%8B%A4%EC%A0%84)
 - '네이버 부스트코스' [기초 데이터 분석을 위한 핵심 SQL](https://www.boostcourse.org/ds102)
