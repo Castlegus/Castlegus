@@ -1,7 +1,7 @@
 ### 데이터를 기반으로 서비스를 성장시키는 그로스해킹에 관심이 많은 데이터 분석가
 
 ### career
-- **2021.11 ~ 현재 로톡(로앤컴퍼니) Data Analyst Assistant Manager**
+- **2021.11 ~ 현재 로톡(로앤컴퍼니) Data Analyst**
 
 - **2021.9 ~ 2021.11 토스코어(비바리퍼블리카) TimeLine Team DA assistant**
 
@@ -167,6 +167,7 @@
 - 생활코딩) [머신러닝1](https://opentutorials.org/course/4548)
 
 #### 데이터베이스
+- 인프런) [NoSQL DB (몽고DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!](https://www.inflearn.com/course/nosql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AA%BD%EA%B3%A0db-%EC%9E%94%EC%9E%AC%EB%AF%B8%EC%BD%94%EB%94%A9)
 - 생활코딩) [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
 - '박재호' [즐겁게 배우는 SQL](https://www.youtube.com/playlist?list=PLdntWJk2tJPLinuRXcokohNLgc83ejwUt)
 - '국민대학교 김남규 교수' [데이터베이스 실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
