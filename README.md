@@ -131,10 +131,10 @@
 
 #### Data Analysis
 - 인프런) [캐글 Advanced 머신러닝 실전 박치기](https://www.inflearn.com/course/%EC%BA%90%EA%B8%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EC%A0%84)
-- '네이버 부스트코스' [데이터 시각화를 위한 태블로](https://www.boostcourse.org/ds121) --- (수강중)
+- 네이버 부스트코스) [데이터 시각화를 위한 태블로](https://www.boostcourse.org/ds121) --- (수강중)
 - Class101) [태블로, 설치부터 대시보드까지: 데이터 시각화 올인원 패키지](https://class101.net/products/hrdJP4TPbEae4sUrVOxZ)
 - 인프런) [[백문이불여일타] 데이터 분석을 위한 SQL 실전편](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-sql-%EC%8B%A4%EC%A0%84)
-- '네이버 부스트코스' [기초 데이터 분석을 위한 핵심 SQL](https://www.boostcourse.org/ds102)
+- 네이버 부스트코스) [기초 데이터 분석을 위한 핵심 SQL](https://www.boostcourse.org/ds102)
 - 패스트캠퍼스) [GA4 탑재, 구글 애널리틱스 끝장내기 올인원 패키지](https://fastcampus.co.kr/mktg_online_gafour)
 - 'AB180' [그로스 해킹, 데이터를 기반으로 성장하기](https://www.wanted.co.kr/events/livetalk22)
 - 인프런) [배워서 바로 적용하는 실무SQL](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4-sql)
@@ -151,12 +151,12 @@
 - 인프런) [[백문이불여일타] 데이터 분석을 위한 기초 SQL](https://www.inflearn.com/course/%EB%B0%B1%EB%AC%B8%EC%9D%B4%EB%B6%88%EC%97%AC%EC%9D%BC%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-SQL/)
 
 #### Data Science
+- 네이버 부스트코스) [[부스트캠프 AI Tech 3기] Pre-Course](https://www.boostcourse.org/onlyboostcampaitech3)
 - 패스트캠퍼스) [데이터 사이언티스트가 회사를 움직이는 법](https://www.fastcampus.co.kr/data_red_hyh)
 - 'SKplanet Tacademy' [토크ON 82차. 추천시스템 분석 입문하기 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdkOVTZWJJIy8rv6rQaZNNc)
 - 'SKplanet Tacademy' [데이타 분석 캠프 3. 모델과 검증 & 앙상블 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfUsybyGJqPEszWRDYdAq2E)
 - 'SKplanet Tacademy' [데이타 분석 캠프 2. 피처 엔지니어링 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheqz0tb5HQkzTIKm59CEV4k)
 - 'SKplanet Tacademy' [데이타 분석 캠프 1. 첫번째 kaggle & EDA | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdSd8qt20neH1hHYjLWmV3w)
-- 'SKplanet Tacademy' [토크ON 53차. 딥러닝 입문에서 활용까지 케라스(Keras) | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheoq-M4EifTMPNWMw7poclK)
 - 'SKplanet Tacademy' [토크ON 44차. Pandas로 하는 시계열 데이터분석 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhd60Qq4r2yC7xYKIhs97FfC)
 - 인프런) [TensorFlow 2.0으로 배우는 딥러닝 입문](https://www.inflearn.com/course/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8)
 - 'SKplanet Tacademy' [토크ON 72차. Pandas 기본기 다지기 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfG_gWF-DclKs6vXS6SkmQN)
