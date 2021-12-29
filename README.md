@@ -104,6 +104,7 @@
 - 국가전문자격 공인중개사(Licensed Real Estate Agent)
 
 ### 읽은 책
+- 데이터 과학자 되는 법 : 취업, 이직부터 탄탄한 커리어를 쌓는 방법까지 --- (읽는 중)
 - 빅데이터를 지탱하는 기술. : 시시각각 변하는 데이터를 파악하는 자동화의 세계 --- (읽는 중)
 - 린 분석 : 성공을 예측하는 31가지 사례와 13가지 패턴
 - 감으로만 일하던 김 팀장은 어떻게 데이터 좀 아는 팀장이 되었나
@@ -130,7 +131,7 @@
 ### 외부 수강 과목 및 참고 강의
 
 #### Data Analysis
-- 인프런) [캐글 Advanced 머신러닝 실전 박치기](https://www.inflearn.com/course/%EC%BA%90%EA%B8%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EC%A0%84) --- (수강중)
+- 인프런) [캐글 Advanced 머신러닝 실전 박치기](https://www.inflearn.com/course/%EC%BA%90%EA%B8%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EC%A0%84)
 - 인프런) [[백문이불여일타] 데이터 분석을 위한 SQL 실전편](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-sql-%EC%8B%A4%EC%A0%84)
 - 'SKplanet Tacademy' [데이타 분석 캠프 3. 모델과 검증 & 앙상블 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfUsybyGJqPEszWRDYdAq2E)
 - 'SKplanet Tacademy' [데이타 분석 캠프 2. 피처 엔지니어링 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheqz0tb5HQkzTIKm59CEV4k)
