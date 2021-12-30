@@ -199,6 +199,7 @@
 
 #### 기타
 - ~~'네이버 부스트코스' [모두를 위한 컴퓨터 과학 (CS50 2019)](https://www.boostcourse.org/cs112)~~
+- 인프런) [가장 빠른 풀스택: 파이썬 백엔드와 웹기술 부트캠프 (flask/플라스크와 백엔드 기본)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%92%80%EC%8A%A4%ED%83%9D-1) --- (수강중)
 - '나도코딩' [파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! ](https://www.youtube.com/watch?v=yQ20jZwDjTE)
 - 인프런) [돋보이는 신입사원을 위한 엑셀 트레이닝](https://www.inflearn.com/course/%EB%8F%8B%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90-%EC%97%91%EC%85%80-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D)
 - 인프런) [프로들만의 차별화된 엑셀 데이터 분석과 차트 시각화](https://www.inflearn.com/course/excel-%EC%97%91%EC%85%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/)
