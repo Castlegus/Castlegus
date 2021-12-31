@@ -142,6 +142,7 @@
 - 'SKplanet Tacademy' [토크ON 50차. Scikit-Learn으로 다지는 머신러닝 기초 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcL3_nJMYx9u-nY2TggZJ0Z)
 - '국민대학교 김남규 교수' [데이터과학 개론](https://www.youtube.com/playlist?list=PLg_wJlcMiuKvNOT6H0dWEDmMHtfiC8yru)
 - 'SKplanet Tacademy' [토크ON 48차. Kaggle(캐글) 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhfBKFj3HYWwk-jQlV8aNwgk)
+- '거친코딩' [기초부터 쌓아가는 머신러닝](https://www.youtube.com/playlist?list=PLX_N4a1EAHhes7qB9jnVrSadErtmeGh0A)
 - 네이버 부스트코스) [기초 데이터 분석을 위한 핵심 SQL](https://www.boostcourse.org/ds102)
 - 패스트캠퍼스) [GA4 탑재, 구글 애널리틱스 끝장내기 올인원 패키지](https://fastcampus.co.kr/mktg_online_gafour)
 - 'AB180' [그로스 해킹, 데이터를 기반으로 성장하기](https://www.wanted.co.kr/events/livetalk22)
@@ -157,14 +158,14 @@
 - 인프런) [[백문이불여일타] 데이터 분석을 위한 중급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%A4%91%EA%B8%89-SQL/)
 - 인프런) [[백문이불여일타] 데이터 분석을 위한 기초 SQL](https://www.inflearn.com/course/%EB%B0%B1%EB%AC%B8%EC%9D%B4%EB%B6%88%EC%97%AC%EC%9D%BC%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-SQL/)
 - 인프런) [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
-- 생활코딩) [머신러닝1](https://opentutorials.org/course/4548)
+- '생활코딩' [머신러닝1](https://opentutorials.org/course/4548)
 
 #### Deep Learning
 - 네이버 부스트코스) [[부스트캠프 AI Tech 3기] Pre-Course](https://www.boostcourse.org/onlyboostcampaitech3) --- (수강중)
 - 'SKplanet Tacademy' [토크ON 82차. 추천시스템 분석 입문하기 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdkOVTZWJJIy8rv6rQaZNNc)
 - 인프런) [TensorFlow 2.0으로 배우는 딥러닝 입문](https://www.inflearn.com/course/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8)
 - 'SKplanet Tacademy' [토크ON 43차. 코드로 알아보는 딥러닝 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcutlrKpdnO83LNq_yke3FS)
-- 생활코딩) [Tensorflow1](https://opentutorials.org/course/4570)
+- '생활코딩' [Tensorflow1](https://opentutorials.org/course/4570)
 
 #### Business Inteligence
 - 네이버 부스트코스) [데이터 시각화를 위한 태블로](https://www.boostcourse.org/ds121) --- (수강중)
@@ -174,7 +175,7 @@
 
 #### 데이터베이스
 - 인프런) [NoSQL DB (몽고DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!](https://www.inflearn.com/course/nosql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AA%BD%EA%B3%A0db-%EC%9E%94%EC%9E%AC%EB%AF%B8%EC%BD%94%EB%94%A9)
-- 생활코딩) [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
+- '생활코딩' [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
 - '박재호' [즐겁게 배우는 SQL](https://www.youtube.com/playlist?list=PLdntWJk2tJPLinuRXcokohNLgc83ejwUt)
 - '국민대학교 김남규 교수' [데이터베이스 실무](https://www.youtube.com/playlist?list=PLg_wJlcMiuKtiEBQLNxQNBQpH5oQm9r1N)
 - 인프런) [RDBMS Modeling](https://www.inflearn.com/course/%EA%B4%80%EA%B3%84%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-RDBMS/dashboard)
