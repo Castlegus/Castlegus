@@ -162,7 +162,6 @@
 - '생활코딩' [머신러닝1](https://opentutorials.org/course/4548)
 
 #### Deep Learning
-- 네이버 부스트코스) [[부스트캠프 AI Tech 3기] Pre-Course](https://www.boostcourse.org/onlyboostcampaitech3) --- (수강중)
 - 'SKplanet Tacademy' [토크ON 82차. 추천시스템 분석 입문하기 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdkOVTZWJJIy8rv6rQaZNNc)
 - 인프런) [TensorFlow 2.0으로 배우는 딥러닝 입문](https://www.inflearn.com/course/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8)
 - 'SKplanet Tacademy' [토크ON 43차. 코드로 알아보는 딥러닝 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcutlrKpdnO83LNq_yke3FS)
