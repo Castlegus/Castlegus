@@ -61,8 +61,7 @@
 - **2015.7 ~ 2015.8 현대해상 사무보조: 의료 데이터 분류**
 
 ### 공부한 책
-- 빅데이터를 지탱하는 기술. : 시시각각 변하는 데이터를 파악하는 자동화의 세계 --- (읽는 중)
-- 데이터 분석을 위한 통계 : 데이터 분석에서 머신러닝까지 파이썬과 R로 살펴보는 50가지 핵심 개념 --- (공부중)
+- 빅데이터를 지탱하는 기술. : 시시각각 변하는 데이터를 파악하는 자동화의 세계
 - 데이터 분석을 위한 SQL 레시피 :데이터 처리부터 매출·유저 파악, 리포팅 등 각종 데이터 분석과 활용까지 --- (공부중)
 - (마케팅 성공률을 높여주는) 구글 애널리틱스 =Google Analytics :최신 기법과 검증된 실전 예제로 배우는 구글 마케팅 플랫폼 완벽 활용 가이드
 - 구글 애널리틱스 실전 활용법: 현직 구글 애널리틱스 컨설턴트가 알려주는
@@ -105,7 +104,7 @@
 - 국가전문자격 공인중개사(Licensed Real Estate Agent)
 
 ### 읽은 책
-- 데이터 과학자 되는 법 : 취업, 이직부터 탄탄한 커리어를 쌓는 방법까지 --- (읽는 중)
+- 데이터 과학자 되는 법 : 취업, 이직부터 탄탄한 커리어를 쌓는 방법까지
 - 빅데이터 시대, 성과를 이끌어 내는 데이터 문해력: 그래프와 도표만 바라보는 당신에게
 - 린 분석 : 성공을 예측하는 31가지 사례와 13가지 패턴
 - 감으로만 일하던 김 팀장은 어떻게 데이터 좀 아는 팀장이 되었나
@@ -188,6 +187,7 @@
 - ‘수악중독’ [(2009개정) 기하와 벡터 개념정리](https://www.youtube.com/playlist?list=PLXJ3W1lEGK8XMoCn8HVySy5DrL6rfDXTx)
 
 #### 통계
+- udemy) [Python for Statistical Analysis](https://www.udemy.com/course/python-for-statistical-analysis/)
 - 'KC대학교 빅데이터경영학과 이상철 교수' [통계분석 with SPSS](https://www.youtube.com/playlist?list=PLEUKy_nwlzwH4XXK3hhiG2huy0eOpa-Js)
 - 'KC대학교 빅데이터경영학과 이상철 교수' [경영통계학](https://www.youtube.com/playlist?list=PLEUKy_nwlzwGWuVyegtJ0RbBrNxa80EzZ)
 - ‘노경섭’ (제대로 시작하는 기초 통계학’ 저자) [제대로 시작하는 기초통계학](https://www.youtube.com/playlist?list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
