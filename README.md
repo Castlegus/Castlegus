@@ -187,7 +187,7 @@
 - ‘수악중독’ [(2009개정) 기하와 벡터 개념정리](https://www.youtube.com/playlist?list=PLXJ3W1lEGK8XMoCn8HVySy5DrL6rfDXTx)
 
 #### 통계
-- udemy) [Python for Statistical Analysis](https://www.udemy.com/course/python-for-statistical-analysis/)
+- udemy) [Python for Statistical Analysis](https://www.udemy.com/course/python-for-statistical-analysis/) --- (수강중)
 - 'KC대학교 빅데이터경영학과 이상철 교수' [통계분석 with SPSS](https://www.youtube.com/playlist?list=PLEUKy_nwlzwH4XXK3hhiG2huy0eOpa-Js)
 - 'KC대학교 빅데이터경영학과 이상철 교수' [경영통계학](https://www.youtube.com/playlist?list=PLEUKy_nwlzwGWuVyegtJ0RbBrNxa80EzZ)
 - ‘노경섭’ (제대로 시작하는 기초 통계학’ 저자) [제대로 시작하는 기초통계학](https://www.youtube.com/playlist?list=PLsri7w6p16vuDN55ZGHVYnitXs2R1Wz6q)
