@@ -111,3 +111,26 @@
 - (가장 쉬운) AI<인공지능> 입문서: 머신러닝, 딥 러닝에 대한 원리를 알기 쉽게 설명
 - 1년 안에 AI 빅데이터 전문가가 되는 법 :4차 산업혁명 시대의 최고의 직업
 - 에이트 (인공지능에게 대체되지 않는 나를 만드는 법)
+
+### 내돈내산 외부 수강 과목
+- 패스트캠퍼스 [The RED : 우버처럼 하는 머신러닝 의사결정 by 정종빈](https://fastcampus.co.kr/data_red_jjb) --- (수강중)
+- 인프런) [가장 빠른 풀스택: 파이썬 백엔드와 웹기술 부트캠프 (flask/플라스크와 백엔드 기본)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%92%80%EC%8A%A4%ED%83%9D-1) --- (수강중)
+- 인프런) [캐글 Advanced 머신러닝 실전 박치기](https://www.inflearn.com/course/%EC%BA%90%EA%B8%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EC%A0%84)
+- 인프런) [NoSQL DB (몽고DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!](https://www.inflearn.com/course/nosql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AA%BD%EA%B3%A0db-%EC%9E%94%EC%9E%AC%EB%AF%B8%EC%BD%94%EB%94%A9)
+- Class101) [태블로, 설치부터 대시보드까지: 데이터 시각화 올인원 패키지](https://class101.net/products/hrdJP4TPbEae4sUrVOxZ)
+- 패스트캠퍼스) [GA4 탑재, 구글 애널리틱스 끝장내기 올인원 패키지](https://fastcampus.co.kr/mktg_online_gafour)
+- 인프런) [배워서 바로 적용하는 실무SQL](https://www.inflearn.com/course/%EC%8B%A4%EB%AC%B4-sql)
+- 인프런) [크롤링기초 부트캠프](https://www.inflearn.com/course/Python-crawling-basic)
+- 패스트캠퍼스) [The RED : 데이터 사이언티스트가 회사를 움직이는 법](https://www.fastcampus.co.kr/data_red_hyh)
+- 인프런) [그로스해킹 - 데이터와 실험을 통해 성장하는 서비스를 만드는 방법](https://www.inflearn.com/course/%EA%B7%B8%EB%A1%9C%EC%8A%A4%ED%95%B4%ED%82%B9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%A4%ED%97%98-%EC%84%B1%EC%9E%A5-%EC%84%9C%EB%B9%84%EC%8A%A4)
+- 인프런) [[백문이불여일타] 데이터 분석을 위한 고급 SQL 문제풀이](https://www.inflearn.com/course/sql-%EA%B3%A0%EA%B8%89-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
+- 인프런) [[백문이불여일타] 데이터 분석을 위한 중급 SQL 문제풀이](https://www.inflearn.com/course/sql-%EC%A4%91%EA%B8%89-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4)
+- 인프런) [[백문이불여일타] 데이터 분석을 위한 고급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B3%A0%EA%B8%89-SQL/)
+- 인프런) [[백문이불여일타] 데이터 분석을 위한 중급 SQL](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EC%A4%91%EA%B8%89-SQL/)
+- 인프런) [[백문이불여일타] 데이터 분석을 위한 기초 SQL](https://www.inflearn.com/course/%EB%B0%B1%EB%AC%B8%EC%9D%B4%EB%B6%88%EC%97%AC%EC%9D%BC%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88-SQL/)
+- 인프런) [TensorFlow 2.0으로 배우는 딥러닝 입문](https://www.inflearn.com/course/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9E%85%EB%AC%B8)
+- 인프런) [파이썬 머신러닝 완벽 가이드](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C)
+- 인프런) [RDBMS Modeling](https://www.inflearn.com/course/%EA%B4%80%EA%B3%84%ED%98%95%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-RDBMS/dashboard)
+- 인프런) [돋보이는 신입사원을 위한 엑셀 트레이닝](https://www.inflearn.com/course/%EB%8F%8B%EB%B3%B4%EC%9D%B4%EB%8A%94-%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90-%EC%97%91%EC%85%80-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D)
+- 인프런) [프로들만의 차별화된 엑셀 데이터 분석과 차트 시각화](https://www.inflearn.com/course/excel-%EC%97%91%EC%85%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D/)
+- 인프런) [엑셀 시작하기 : EXCEL 입문(Inflearn Original)](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EC%9E%85%EB%AC%B8-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90/dashboard)
