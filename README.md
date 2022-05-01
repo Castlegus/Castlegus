@@ -114,8 +114,9 @@
 - 에이트 (인공지능에게 대체되지 않는 나를 만드는 법)
 
 ### 내돈내산 외부 수강 과목
+- 유데미) [비즈니스 분석 및 Data Science 를 위한 핵심 통계학 A-Z](https://www.udemy.com/course/best-business-analysis/)
 - 패스트캠퍼스) [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
-- 패스트캠퍼스) [The RED : 우버처럼 하는 머신러닝 의사결정 by 정종빈](https://fastcampus.co.kr/data_red_jjb) --- (수강중)
+- 패스트캠퍼스) [The RED : 우버처럼 하는 머신러닝 의사결정 by 정종빈](https://fastcampus.co.kr/data_red_jjb)
 - ~~프로그래머스) [실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://programmers.co.kr/learn/courses/13708)~~
 - 인프런) [가장 빠른 풀스택: 파이썬 백엔드와 웹기술 부트캠프 (flask/플라스크와 백엔드 기본)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%92%80%EC%8A%A4%ED%83%9D-1) --- (수강중)
 - 인프런) [캐글 Advanced 머신러닝 실전 박치기](https://www.inflearn.com/course/%EC%BA%90%EA%B8%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EC%A0%84)
