@@ -89,6 +89,7 @@
 - 국가전문자격 공인중개사(Licensed Real Estate Agent)
 
 ### 읽은 책
+- 일의 격 : 성장하는 나, 성공하는 조직, 성숙한 삶 --- (읽는중)
 - 데이터 과학자 되는 법 : 취업, 이직부터 탄탄한 커리어를 쌓는 방법까지
 - 빅데이터 시대, 성과를 이끌어 내는 데이터 문해력: 그래프와 도표만 바라보는 당신에게
 - 린 분석 : 성공을 예측하는 31가지 사례와 13가지 패턴
@@ -114,7 +115,7 @@
 - 에이트 (인공지능에게 대체되지 않는 나를 만드는 법)
 
 ### 내돈내산 외부 수강 과목
-- 유데미) [비즈니스 분석 및 Data Science 를 위한 핵심 통계학 A-Z](https://www.udemy.com/course/best-business-analysis/)
+- 유데미) [비즈니스 분석 및 Data Science 를 위한 핵심 통계학 A-Z](https://www.udemy.com/course/best-business-analysis/) --- (수강중)
 - 패스트캠퍼스) [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
 - 패스트캠퍼스) [The RED : 우버처럼 하는 머신러닝 의사결정 by 정종빈](https://fastcampus.co.kr/data_red_jjb)
 - ~~프로그래머스) [실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://programmers.co.kr/learn/courses/13708)~~
