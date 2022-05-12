@@ -3,7 +3,7 @@
 ### career
 - **2021.11 ~ 현재 로톡(로앤컴퍼니) Data Analyst**
 
-- **2021.1 ~ 2021.7 창업팀 '콘콘'팀 굿즈 커뮤니티 '오즈의제작소' 데이터분석:**
+- **2021.1 ~ 2021.7 창업팀 '콘콘'팀 굿즈 플랫폼 '오즈의제작소' 데이터분석:**
   1) 구글 애널리틱스와 Hotjar를 이용한 웹 로그 분석
   2) 예비창업패키지 수혜 기업 선정
 
@@ -115,6 +115,7 @@
 - 에이트 (인공지능에게 대체되지 않는 나를 만드는 법)
 
 ### 내돈내산 외부 수강 과목
+- 인프런) [다양한 사례로 익히는 SQL 데이터 분석](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%EC%82%AC%EB%A1%80%EC%A4%91%EC%8B%AC) --- (수강중)
 - 유데미) [비즈니스 분석 및 Data Science 를 위한 핵심 통계학 A-Z](https://www.udemy.com/course/best-business-analysis/) --- (수강중)
 - 패스트캠퍼스) [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
 - 패스트캠퍼스) [The RED : 우버처럼 하는 머신러닝 의사결정 by 정종빈](https://fastcampus.co.kr/data_red_jjb)
