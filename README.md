@@ -116,7 +116,7 @@
 
 ### 내돈내산 외부 수강 과목
 - 인프런) [다양한 사례로 익히는 SQL 데이터 분석](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%EC%82%AC%EB%A1%80%EC%A4%91%EC%8B%AC) --- (수강중)
-- 유데미) [비즈니스 분석 및 Data Science 를 위한 핵심 통계학 A-Z](https://www.udemy.com/course/best-business-analysis/) --- (수강중)
+- 유데미) [비즈니스 분석 및 Data Science 를 위한 핵심 통계학 A-Z](https://www.udemy.com/course/best-business-analysis/)
 - 패스트캠퍼스) [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
 - 패스트캠퍼스) [The RED : 우버처럼 하는 머신러닝 의사결정 by 정종빈](https://fastcampus.co.kr/data_red_jjb)
 - ~~프로그래머스) [실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://programmers.co.kr/learn/courses/13708)~~
