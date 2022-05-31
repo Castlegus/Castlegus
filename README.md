@@ -116,7 +116,7 @@
 - 에이트 (인공지능에게 대체되지 않는 나를 만드는 법)
 
 ### 내돈내산 외부 수강 과목
-- ~~Class101) [현업 데이터 실무자 5인과 함께 시작하는 프로덕트 데이터 분석](https://class101.net/products/btvXcGdJwG1B1JZC0LkR)~~  -- (수강중)
+- ~~Class101) [현업 데이터 실무자 5인과 함께 시작하는 프로덕트 데이터 분석](https://class101.net/products/btvXcGdJwG1B1JZC0LkR)~~ 회사 지원  -- (수강중)
 - 인프런) [다양한 사례로 익히는 SQL 데이터 분석](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%EC%82%AC%EB%A1%80%EC%A4%91%EC%8B%AC) --- (수강중)
 - 유데미) [비즈니스 분석 및 Data Science 를 위한 핵심 통계학 A-Z](https://www.udemy.com/course/best-business-analysis/)
 - 패스트캠퍼스) [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
