@@ -126,7 +126,6 @@
 - 유데미) [비즈니스 분석 및 Data Science 를 위한 핵심 통계학 A-Z](https://www.udemy.com/course/best-business-analysis/)
 - 패스트캠퍼스) [The RED : 우버처럼 하는 머신러닝 의사결정 by 정종빈](https://fastcampus.co.kr/data_red_jjb)
 - ~~프로그래머스) [실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://programmers.co.kr/learn/courses/13708)~~ 회사 지원
-- 인프런) [가장 빠른 풀스택: 파이썬 백엔드와 웹기술 부트캠프 (flask/플라스크와 백엔드 기본)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%92%80%EC%8A%A4%ED%83%9D-1) --- (수강중)
 - 인프런) [캐글 Advanced 머신러닝 실전 박치기](https://www.inflearn.com/course/%EC%BA%90%EA%B8%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EC%A0%84)
 - 인프런) [NoSQL DB (몽고DB/mongodb) 기본부터 파이썬/데이터분석 활용까지!](https://www.inflearn.com/course/nosql-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%AA%BD%EA%B3%A0db-%EC%9E%94%EC%9E%AC%EB%AF%B8%EC%BD%94%EB%94%A9)
 - Class101) [태블로, 설치부터 대시보드까지: 데이터 시각화 올인원 패키지](https://class101.net/products/hrdJP4TPbEae4sUrVOxZ)
