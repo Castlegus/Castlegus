@@ -116,6 +116,7 @@
 
 
 ## 내돈내산 외부 수강 과목
+- 유데미) [Python : 통계 분석을 위한 파이썬](https://www.udemy.com/course/best-python-statistics/) --- (수강중)
 - 패스트캠퍼스) [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
 - ~~Class101) [현업 데이터 실무자 5인과 함께 시작하는 프로덕트 데이터 분석](https://class101.net/products/btvXcGdJwG1B1JZC0LkR)~~ 회사 지원
 - 인프런) [다양한 사례로 익히는 SQL 데이터 분석](https://www.inflearn.com/course/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-sql-%EC%82%AC%EB%A1%80%EC%A4%91%EC%8B%AC)
