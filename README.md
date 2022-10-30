@@ -118,8 +118,6 @@
 
 
 ## 내돈내산 외부 수강 과목
-- Class101) [분석, 예측모델, AWS 자동화까지! 연봉 높이는 데이터 과학자 포트폴리오 완성](https://class101.net/products/616cf9f834ceee00140d2c95) --- (수강중)
-- Class101) [서비스를 성장시키는 데이터 분석가는 어떻게 일을 하는가](https://class101.net/plus/ko/products/FJmiFbrdnVABONUuwxwB) --- (수강중)
 - 유데미) [Python : 통계 분석을 위한 파이썬](https://www.udemy.com/course/best-python-statistics/) --- (수강중)
 - 패스트캠퍼스) [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
 - Class101) [기업의 문제 해결을 위한 파이썬 비즈니스 데이터 분석과 통계](https://class101.net/products/6130477c99d2e7000dffc13b)
