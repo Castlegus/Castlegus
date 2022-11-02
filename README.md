@@ -118,9 +118,10 @@
 
 
 ## 내돈내산 외부 수강 과목
-- 유데미) [통계 분석 마스터 클래스 : 확률과 추론](https://www.udemy.com/course/maso-ds-excel-onc49-1/) --- (수강중)
 - 유데미) [Python : 통계 분석을 위한 파이썬](https://www.udemy.com/course/best-python-statistics/) --- (수강중)
 - 패스트캠퍼스) [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
+- 유데미) [통계 분석 마스터 클래스 : 회귀분석과 실전 프로젝트](https://www.udemy.com/course/maso-ds-excel-onc49-2/) --- (수강중)
+- 유데미) [통계 분석 마스터 클래스 : 확률과 추론](https://www.udemy.com/course/maso-ds-excel-onc49-1/)
 - Class101) [기업의 문제 해결을 위한 파이썬 비즈니스 데이터 분석과 통계](https://class101.net/products/6130477c99d2e7000dffc13b)
 - Class101) [직접 보고 느끼는 기초 통계 이론 완성](https://class101.net/products/KPnf4UUk6KAvPrZSeHza)
 - ~~Class101) [현업 데이터 실무자 5인과 함께 시작하는 프로덕트 데이터 분석](https://class101.net/products/btvXcGdJwG1B1JZC0LkR)~~ 회사 지원
