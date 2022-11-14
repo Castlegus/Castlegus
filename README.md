@@ -62,6 +62,7 @@
 
 ## 읽은 책
 #### 2022
+- [데이터 플랫폼 설계와 구축: 클라우드 데이터 플랫폼 구축 시 고려사항](http://www.yes24.com/Product/Goods/108466286) --- (읽는 중)
 - [빅데이터를 지배하는 통계의 힘-실무활용편: 쉽고, 빠르고, 정확한 통계 활용법](http://www.yes24.com/Product/Goods/19995275) --- (읽는 중)
 - [데이터 과학을 위한 통계: 데이터 분석에서 머신러닝까지 파이썬과 R로 살펴보는 50가지 핵심 개념](http://www.yes24.com/Product/Goods/99942893) --- (읽는 중)
 - [데이터 파이프라인 핵심 가이드: 성공적인 데이터 분석을 위한 인프라 설계와 구축](http://www.yes24.com/Product/Goods/106729751)
@@ -73,11 +74,6 @@
 - [데이터 분석을 위한 SQL 레시피:데이터 처리부터 매출·유저 파악, 리포팅 등 각종 데이터 분석과 활용까지](http://www.yes24.com/Product/Goods/59411396)
 - [빅데이터를 지탱하는 기술: 시시각각 변하는 데이터를 파악하는 자동화의 세계](http://www.yes24.com/Product/Goods/66277191)
 - [데이터 과학자 되는 법: 취업, 이직부터 탄탄한 커리어를 쌓는 방법까지](http://www.yes24.com/Product/Goods/105156827)
-##### on hold
-- [A/B 테스트: 신뢰도 높은 온라인 통제 실험](http://www.yes24.com/Product/Goods/110044064) --- (일시정지)
-- [일의 격: 성장하는 나, 성공하는 조직, 성숙한 삶](http://www.yes24.com/Product/Goods/102485494) --- (일시정지)
-- [SQL로 시작하는 데이터 분석: 실무에 꼭 필요한 분석 기법 총정리! 실전 데이터셋으로 배우는 시계열, 코호트, 텍스트 분석](http://www.yes24.com/Product/Goods/111360062) --- (일시정지)
-- [Apache Airflow 기반의 데이터 파이프라인: 에어플로 중심의 워크플로 구축에서 커스텀 컴포넌트 개발 및 배포, 관리까지](http://www.yes24.com/Product/Goods/107878326) --- (일시정지)
 
 #### 2021
 - [빅데이터 시대, 성과를 이끌어 내는 데이터 문해력: 그래프와 도표만 바라보는 당신에게](http://www.yes24.com/Product/Goods/97701103)
@@ -92,6 +88,7 @@
 - [마케터를 위한 구글 애널리틱스](http://www.yes24.com/Product/Goods/96873734)
 - [그로스 해킹: 데이터와 실험을 통해 성장하는 서비스를 만드는 방법](http://www.yes24.com/Product/Goods/96576416)
 - [한 장으로 끝내는 비즈니스 모델 100: 끌리는 사업, 남다른 혁신, 지속 가능한 수익을 위한 모든 것](http://www.yes24.com/Product/Goods/76148996)
+
 #### 2020
 - [진화된 마케팅 그로스 해킹: 프로세스와 실행 전략 바이블](http://www.yes24.com/Product/Goods/53220322)
 - [SQL 전문가 가이드: The Guide for SQL Professional](http://www.yes24.com/Product/Goods/90613346)
