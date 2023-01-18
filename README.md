@@ -126,6 +126,7 @@
 - 인프런) [AWS(Amazon Web Service) 입문자를 위한 강의](https://www.inflearn.com/course/aws-%EC%9E%85%EB%AC%B8) --- (수강중)
 - 유데미) [Python : 통계 분석을 위한 파이썬](https://www.udemy.com/course/best-python-statistics/) --- (수강중)
 - 패스트캠퍼스) [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
+- 인프런) [배워서 바로 쓰는 파이썬 Pandas [분석기초]](https://www.inflearn.com/course/%EB%B0%94%EB%A1%9C%EC%93%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%90%EB%8B%A4%EC%8A%A4)
 - 인프런) [[인프런x코드캠프] 시작은 프리캠프](https://www.inflearn.com/course/%EC%8B%9C%EC%9E%91-%ED%94%84%EB%A6%AC%EC%BA%A0%ED%94%84-%EC%BD%94%EB%93%9C%EC%BA%A0%ED%94%84)
 - 인프런) [데이터 실험 문화의 핵심: A/B 테스트](https://www.inflearn.com/course/%EC%9B%94%EA%B0%84-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A6%AC%EC%95%88-11%EC%9B%94)
 - 유데미) [통계 분석 마스터 클래스 : 회귀분석과 실전 프로젝트](https://www.udemy.com/course/maso-ds-excel-onc49-2/)
