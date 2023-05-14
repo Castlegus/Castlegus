@@ -66,6 +66,7 @@
 
 ## 읽은 책
 #### 2023
+- [A/B 테스트: 신뢰할 수 있는 온라인 종합 대조 실험](http://www.yes24.com/Product/Goods/110044064)
 - [유난한 도전: 경계를 부수는 사람들, 토스팀 이야기](http://www.yes24.com/Product/Goods/115007234)
 - [빅데이터 시대, 올바른 인사이트를 위한 통계 101×데이터 분석: 데이터는 다뤄도 통계까지 배울 시간은 없었던 당신에게](http://www.yes24.com/Product/Goods/114874176)
 - [비전공자도 이해할 수 있는 AI 지식: 구글 검색부터 유튜브 추천, 파파고 번역과 내비게이션까지 일상을 움직이는 인공지능 이해하기](http://www.yes24.com/Product/Goods/107668214)
@@ -130,6 +131,7 @@
 - 인프런) [리눅스 입문 - 개념으로 탄탄히!!](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9E%85%EB%AC%B8) --- (수강중)
 - 유데미) [Python : 통계 분석을 위한 파이썬](https://www.udemy.com/course/best-python-statistics/) --- (수강중)
 - 패스트캠퍼스) [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
+- 인프런) [실무자를 위한 AB Test 완벽 가이드](https://www.inflearn.com/course/ab-test-%EB%B2%A0%EC%9D%B4%EC%A7%81-%EC%BD%94%EC%8A%A4)
 - 인프런) [PM을 위한 데이터 리터러시(프로덕트 데이터 분석)](https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C)
 - 인프런) [배워서 바로 쓰는 파이썬 Pandas [분석기초]](https://www.inflearn.com/course/%EB%B0%94%EB%A1%9C%EC%93%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%90%EB%8B%A4%EC%8A%A4)
 - 인프런) [[인프런x코드캠프] 시작은 프리캠프](https://www.inflearn.com/course/%EC%8B%9C%EC%9E%91-%ED%94%84%EB%A6%AC%EC%BA%A0%ED%94%84-%EC%BD%94%EB%93%9C%EC%BA%A0%ED%94%84)
