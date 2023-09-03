@@ -66,7 +66,8 @@
 
 ## 읽은 책
 #### 2023
-- [데이터 과학자 원칙: 데이터 리더 9인이 말하는 더 나은 데이터 과학자로 살아가는 원칙과 철학](https://www.yes24.com/Product/Goods/119016899) --- (읽는 중)
+- [견고한 데이터 엔지니어링: 데이터 파이프라인 설계와 구축의 핵심 원칙](https://www.yes24.com/Product/Goods/119712582) --- (읽는 중)
+- [데이터 과학자 원칙: 데이터 리더 9인이 말하는 더 나은 데이터 과학자로 살아가는 원칙과 철학](https://www.yes24.com/Product/Goods/119016899)
 - [A/B 테스트: 신뢰할 수 있는 온라인 종합 대조 실험](http://www.yes24.com/Product/Goods/110044064)
 - [유난한 도전: 경계를 부수는 사람들, 토스팀 이야기](http://www.yes24.com/Product/Goods/115007234)
 - [빅데이터 시대, 올바른 인사이트를 위한 통계 101×데이터 분석: 데이터는 다뤄도 통계까지 배울 시간은 없었던 당신에게](http://www.yes24.com/Product/Goods/114874176)
@@ -130,9 +131,9 @@
 
 ## 외부 수강 강의
 - [Airflow 마스터 클래스](https://statisticsplaybook.com/p/airflow) --- (수강중)
-- [빅데이터 파이프라인 마스터; 성공을 위한 도구와 기술](https://www.inflearn.com/course/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EB%A7%88%EC%8A%A4%ED%84%B0) --- (수강중)
-- [리눅스 입문 - 개념으로 탄탄히!!](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9E%85%EB%AC%B8) --- (수강중)
-- [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300) --- (수강중)
+- [Analytics Engineering Bootcamp](https://www.udemy.com/course/analytics-engineering-bootcamp/) --- (수강중)
+- [리눅스 입문 - 개념으로 탄탄히!!](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9E%85%EB%AC%B8)
+- [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300)
 - [실무자를 위한 AB Test 완벽 가이드](https://www.inflearn.com/course/ab-test-%EB%B2%A0%EC%9D%B4%EC%A7%81-%EC%BD%94%EC%8A%A4)
 - [PM을 위한 데이터 리터러시(프로덕트 데이터 분석)](https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C)
 - [배워서 바로 쓰는 파이썬 Pandas [분석기초]](https://www.inflearn.com/course/%EB%B0%94%EB%A1%9C%EC%93%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%90%EB%8B%A4%EC%8A%A4)
