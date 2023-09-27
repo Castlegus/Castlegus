@@ -1,7 +1,7 @@
 ### 데이터 분석가
 
 ## Career
-- **2023.3 ~ 현재 잡플래닛(브레인커머스) Data Analyst** 
+- **2023.3 ~ 현재 잡플래닛(브레인커머스) Data Analyst & Analytics Engineer** 
 
 - **2022.12 ~ 2023.3 그린랩스 Data Analyst** 
 
@@ -92,9 +92,9 @@
 
 
 ## 외부 수강 강의
-- [클라우드 도전 with 알렉](https://www.inflearn.com/course/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%9D%B4%ED%95%B4%EC%99%80%EC%8B%A4%EC%8A%B5) --- (수강중)
 - [Airflow 마스터 클래스](https://statisticsplaybook.com/p/airflow) --- (수강중)
 - [Analytics Engineering Bootcamp](https://www.udemy.com/course/analytics-engineering-bootcamp/) --- (수강중)
+- [클라우드 도전 with 알렉](https://www.inflearn.com/course/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%9D%B4%ED%95%B4%EC%99%80%EC%8B%A4%EC%8A%B5)
 - [리눅스 입문 - 개념으로 탄탄히!!](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9E%85%EB%AC%B8)
 - [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300)
 - [실무자를 위한 AB Test 완벽 가이드](https://www.inflearn.com/course/ab-test-%EB%B2%A0%EC%9D%B4%EC%A7%81-%EC%BD%94%EC%8A%A4)
