@@ -30,6 +30,7 @@
 ## 읽은 책
 #### 2023
 - [데이터로 경험을 디자인하라: 고객 경험을 극대화하는 DCX 혁신의 비밀](https://www.yes24.com/Product/Goods/108802285) --- (읽는 중)
+- [스토너](https://www.yes24.com/Product/Goods/90865381)  --- (읽는 중)
 - [견고한 데이터 엔지니어링: 데이터 파이프라인 설계와 구축의 핵심 원칙](https://www.yes24.com/Product/Goods/119712582)
 - [데이터 과학자 원칙: 데이터 리더 9인이 말하는 더 나은 데이터 과학자로 살아가는 원칙과 철학](https://www.yes24.com/Product/Goods/119016899)
 - [A/B 테스트: 신뢰할 수 있는 온라인 종합 대조 실험](http://www.yes24.com/Product/Goods/110044064)
