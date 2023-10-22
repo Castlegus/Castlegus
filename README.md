@@ -1,4 +1,4 @@
-### 데이터 분석가
+## Data Analyst & Analytics Engineer
 
 ## Career
 - **2023.3 ~ 현재 잡플래닛(브레인커머스) Data Analyst & Analytics Engineer** 
@@ -16,6 +16,7 @@
 
 
 ## 최근 활동
+- 2023.10 패스트캠퍼스 데이터 분석 부트캠프 파이널 프로젝트 멘토
 - 2023.9 ~ 2023.12 트레바리 넘버스
 - 2022.2 ~ 2022.3 실리콘밸리에서 날아온 데이터 엔지니어 스타터 키트
 
@@ -28,7 +29,8 @@
 
 ## 읽은 책
 #### 2023
-- [견고한 데이터 엔지니어링: 데이터 파이프라인 설계와 구축의 핵심 원칙](https://www.yes24.com/Product/Goods/119712582) --- (읽는 중)
+- [데이터로 경험을 디자인하라: 고객 경험을 극대화하는 DCX 혁신의 비밀](https://www.yes24.com/Product/Goods/108802285) --- (읽는 중)
+- [견고한 데이터 엔지니어링: 데이터 파이프라인 설계와 구축의 핵심 원칙](https://www.yes24.com/Product/Goods/119712582)
 - [데이터 과학자 원칙: 데이터 리더 9인이 말하는 더 나은 데이터 과학자로 살아가는 원칙과 철학](https://www.yes24.com/Product/Goods/119016899)
 - [A/B 테스트: 신뢰할 수 있는 온라인 종합 대조 실험](http://www.yes24.com/Product/Goods/110044064)
 - [유난한 도전: 경계를 부수는 사람들, 토스팀 이야기](http://www.yes24.com/Product/Goods/115007234)
@@ -92,6 +94,7 @@
 
 
 ## 외부 수강 강의
+- [경쟁력 있는 분석가를 위한 데이터 엔지니어링 기초 : AWS, GCP 기반 클라우드 분석 환경 마스터](https://learningspoons.com/course/detail/basic_de/) --- (수강중)
 - [Airflow 마스터 클래스](https://statisticsplaybook.com/p/airflow) --- (수강중)
 - [Analytics Engineering Bootcamp](https://www.udemy.com/course/analytics-engineering-bootcamp/) --- (수강중)
 - [클라우드 도전 with 알렉](https://www.inflearn.com/course/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%9D%B4%ED%95%B4%EC%99%80%EC%8B%A4%EC%8A%B5)
