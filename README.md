@@ -29,6 +29,7 @@
 
 ## 읽은 책
 #### 2023
+- [불안](https://www.yes24.com/Product/Goods/6111280) --- (읽는 중)
 - [데이터로 경험을 디자인하라: 고객 경험을 극대화하는 DCX 혁신의 비밀](https://www.yes24.com/Product/Goods/108802285) --- (읽는 중)
 - [스토너](https://www.yes24.com/Product/Goods/90865381)  --- (읽는 중)
 - [견고한 데이터 엔지니어링: 데이터 파이프라인 설계와 구축의 핵심 원칙](https://www.yes24.com/Product/Goods/119712582)
@@ -95,9 +96,10 @@
 
 
 ## 외부 수강 강의
+- [CS 지식의 정석 | 디자인패턴 네트워크 운영체제 데이터베이스 자료구조](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-cs-%ED%8A%B9%EA%B0%95) --- (수강중)
 - [Analytics Engineering Bootcamp](https://www.udemy.com/course/analytics-engineering-bootcamp/) --- (수강중)
-- [경쟁력 있는 분석가를 위한 데이터 엔지니어링 기초 : AWS, GCP 기반 클라우드 분석 환경 마스터](https://learningspoons.com/course/detail/basic_de/)
 - [Airflow 마스터 클래스](https://statisticsplaybook.com/p/airflow) --- (수강중)
+- [경쟁력 있는 분석가를 위한 데이터 엔지니어링 기초 : AWS, GCP 기반 클라우드 분석 환경 마스터](https://learningspoons.com/course/detail/basic_de/)
 - [클라우드 도전 with 알렉](https://www.inflearn.com/course/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%9D%B4%ED%95%B4%EC%99%80%EC%8B%A4%EC%8A%B5)
 - [리눅스 입문 - 개념으로 탄탄히!!](https://www.inflearn.com/course/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9E%85%EB%AC%B8)
 - [퀴즈처럼 풀면서 배우는 파이썬 머신러닝 300제+](https://fastcampus.co.kr/data_online_ml300)
