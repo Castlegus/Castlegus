@@ -97,8 +97,9 @@
 
 ## 외부 수강 강의
 - [CS 지식의 정석 | 디자인패턴 네트워크 운영체제 데이터베이스 자료구조](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-cs-%ED%8A%B9%EA%B0%95) --- (수강중)
-- [Analytics Engineering Bootcamp](https://www.udemy.com/course/analytics-engineering-bootcamp/) --- (수강중)
+- [Data Warehouse - The Ultimate Guide](https://www.udemy.com/course/data-warehouse-the-ultimate-guide/) --- (수강중)
 - [Airflow 마스터 클래스](https://statisticsplaybook.com/p/airflow) --- (수강중)
+- [Analytics Engineering Bootcamp](https://www.udemy.com/course/analytics-engineering-bootcamp/)
 - [프롬프트 엔지니어링](https://www.inflearn.com/course/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%B1%97%EC%A7%80%ED%94%BC%ED%8B%B0)
 - [경쟁력 있는 분석가를 위한 데이터 엔지니어링 기초 : AWS, GCP 기반 클라우드 분석 환경 마스터](https://learningspoons.com/course/detail/basic_de/)
 - [클라우드 도전 with 알렉](https://www.inflearn.com/course/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%9D%B4%ED%95%B4%EC%99%80%EC%8B%A4%EC%8A%B5)
