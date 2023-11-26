@@ -29,9 +29,10 @@
 
 ## 읽은 책
 #### 2023
+- [세컨드 펭귄: 불확실한 1인자보다 확실하게 살아남는 2인자의 성장 공식](https://www.yes24.com/Product/Goods/121994619) --- (읽는 중)
 - [불안](https://www.yes24.com/Product/Goods/6111280) --- (읽는 중)
-- [데이터로 경험을 디자인하라: 고객 경험을 극대화하는 DCX 혁신의 비밀](https://www.yes24.com/Product/Goods/108802285) --- (읽는 중)
 - [스토너](https://www.yes24.com/Product/Goods/90865381)  --- (읽는 중)
+- [데이터로 경험을 디자인하라: 고객 경험을 극대화하는 DCX 혁신의 비밀](https://www.yes24.com/Product/Goods/108802285)
 - [견고한 데이터 엔지니어링: 데이터 파이프라인 설계와 구축의 핵심 원칙](https://www.yes24.com/Product/Goods/119712582)
 - [데이터 과학자 원칙: 데이터 리더 9인이 말하는 더 나은 데이터 과학자로 살아가는 원칙과 철학](https://www.yes24.com/Product/Goods/119016899)
 - [A/B 테스트: 신뢰할 수 있는 온라인 종합 대조 실험](http://www.yes24.com/Product/Goods/110044064)
@@ -97,6 +98,7 @@
 
 ## 외부 수강 강의
 - [CS 지식의 정석 | 디자인패턴 네트워크 운영체제 데이터베이스 자료구조](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-cs-%ED%8A%B9%EA%B0%95) --- (수강중)
+- [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/) --- (수강중)
 - [Data Warehouse - The Ultimate Guide](https://www.udemy.com/course/data-warehouse-the-ultimate-guide/) --- (수강중)
 - [Airflow 마스터 클래스](https://statisticsplaybook.com/p/airflow) --- (수강중)
 - [Analytics Engineering Bootcamp](https://www.udemy.com/course/analytics-engineering-bootcamp/)
