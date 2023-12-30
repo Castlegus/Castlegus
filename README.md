@@ -28,10 +28,13 @@
 
 
 ## 읽은 책
-#### 2023
-- [불안](https://www.yes24.com/Product/Goods/6111280) --- (읽는 중)
-- [스토너](https://www.yes24.com/Product/Goods/90865381)  --- (읽는 중)
+#### 2024
+- [굿 라이프: 내 삶을 바꾸는 심리학의 지혜](https://www.yes24.com/Product/Goods/61810085) --- (읽는 중)
 - [데이터 품질의 비밀: 데이터 신뢰를 쌓는 데이터옵스의 핵심과 엔드 투 엔드 단계별 가이드](https://www.yes24.com/Product/Goods/118335008) --- (읽는 중)
+
+#### 2023
+- [스토너](https://www.yes24.com/Product/Goods/90865381)  --- (읽는 중)
+- [불안](https://www.yes24.com/Product/Goods/6111280)
 - [모든 것이 되는 법: 꿈이 너무 많은 당신을 위한 새로운 삶의 방식](https://www.yes24.com/Product/Goods/57445016)
 - [세컨드 펭귄: 불확실한 1인자보다 확실하게 살아남는 2인자의 성장 공식](https://www.yes24.com/Product/Goods/121994619)
 - [데이터로 경험을 디자인하라: 고객 경험을 극대화하는 DCX 혁신의 비밀](https://www.yes24.com/Product/Goods/108802285)
