@@ -29,6 +29,7 @@
 
 ## 읽은 책
 #### 2024
+- [인스파이어드: 감동을 전하는 IT 제품은 어떻게 만들어지는가?](https://www.yes24.com/Product/Goods/67512293) --- (읽는 중)
 - [굿 라이프: 내 삶을 바꾸는 심리학의 지혜](https://www.yes24.com/Product/Goods/61810085) --- (읽는 중)
 - [데이터 품질의 비밀: 데이터 신뢰를 쌓는 데이터옵스의 핵심과 엔드 투 엔드 단계별 가이드](https://www.yes24.com/Product/Goods/118335008) --- (읽는 중)
 - [함께 자라기: 애자일로 가는 길](https://www.yes24.com/Product/Goods/67350256)
@@ -103,9 +104,9 @@
 
 
 ## 외부 수강 강의
+- [시계열 데이터 분석 with 파이썬](https://www.udemy.com/course/250-timeseries-kor-sub-top-100/) --- (수강중)
 - [2023-24 Tableau Certified Data Analyst Training](https://www.udemy.com/course/tableau-for-beginners/) --- (수강중)
 - [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/) --- (수강중)
-- [CS 지식의 정석 | 디자인패턴 네트워크 운영체제 데이터베이스 자료구조](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-cs-%ED%8A%B9%EA%B0%95) --- (수강중)
 - [Data Warehouse - The Ultimate Guide](https://www.udemy.com/course/data-warehouse-the-ultimate-guide/)
 - [Airflow 마스터 클래스](https://statisticsplaybook.com/p/airflow)
 - [Analytics Engineering Bootcamp](https://www.udemy.com/course/analytics-engineering-bootcamp/)
