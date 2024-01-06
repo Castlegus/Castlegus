@@ -32,6 +32,7 @@
 - [인스파이어드: 감동을 전하는 IT 제품은 어떻게 만들어지는가?](https://www.yes24.com/Product/Goods/67512293) --- (읽는 중)
 - [굿 라이프: 내 삶을 바꾸는 심리학의 지혜](https://www.yes24.com/Product/Goods/61810085) --- (읽는 중)
 - [데이터 품질의 비밀: 데이터 신뢰를 쌓는 데이터옵스의 핵심과 엔드 투 엔드 단계별 가이드](https://www.yes24.com/Product/Goods/118335008) --- (읽는 중)
+- [공식을 넘어서는 데이터 마인드셋: 실무자를 위한 데이터 분석 실전 워크북](https://www.yes24.com/Product/Goods/123669196)
 - [함께 자라기: 애자일로 가는 길](https://www.yes24.com/Product/Goods/67350256)
 
 #### 2023
