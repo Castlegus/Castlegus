@@ -1,4 +1,4 @@
-## Data Analyst & Analytics Engineer
+![image](https://github.com/Castlegus/Castlegus/assets/69614150/7131ba1e-72ad-4921-95b6-872939ac4483)## Data Analyst & Analytics Engineer
 
 ## Career
 - **2023.3 ~ 현재 잡플래닛(브레인커머스) Data Analyst & Analytics Engineer** 
@@ -30,7 +30,7 @@
 ## 읽은 책
 #### 2024
 - [굿 라이프: 내 삶을 바꾸는 심리학의 지혜](https://www.yes24.com/Product/Goods/61810085) --- (읽는 중)
-- [데이터 품질의 비밀: 데이터 신뢰를 쌓는 데이터옵스의 핵심과 엔드 투 엔드 단계별 가이드](https://www.yes24.com/Product/Goods/118335008) --- (읽는 중)
+- [커넥팅: 일의 길을 찾는 당신을 위한 커리어 포트폴리오 전략](https://www.yes24.com/Product/Goods/124911453) --- (읽는 중)
 - [데이터에서 비즈니스 성과로, BI를 위한 대시보드 설계와 구축](https://www.yes24.com/Product/Goods/124574690)
 - [인스파이어드: 감동을 전하는 IT 제품은 어떻게 만들어지는가?](https://www.yes24.com/Product/Goods/67512293)
 - [공식을 넘어서는 데이터 마인드셋: 실무자를 위한 데이터 분석 실전 워크북](https://www.yes24.com/Product/Goods/123669196)
@@ -106,9 +106,10 @@
 
 
 ## 외부 수강 강의
-- [시계열 데이터 분석 with 파이썬](https://www.udemy.com/course/250-timeseries-kor-sub-top-100/) --- (수강중)
+- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) --- (수강중)
 - [2023-24 Tableau Certified Data Analyst Training](https://www.udemy.com/course/tableau-for-beginners/) --- (수강중)
-- [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/) --- (수강중)
+- [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
+- [시계열 데이터 분석 with 파이썬](https://www.udemy.com/course/250-timeseries-kor-sub-top-100/)
 - [Data Warehouse - The Ultimate Guide](https://www.udemy.com/course/data-warehouse-the-ultimate-guide/)
 - [Airflow 마스터 클래스](https://statisticsplaybook.com/p/airflow)
 - [Analytics Engineering Bootcamp](https://www.udemy.com/course/analytics-engineering-bootcamp/)
