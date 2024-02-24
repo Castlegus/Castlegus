@@ -1,4 +1,4 @@
-![image](https://github.com/Castlegus/Castlegus/assets/69614150/7131ba1e-72ad-4921-95b6-872939ac4483)## Data Analyst & Analytics Engineer
+## Data Analyst & Analytics Engineer
 
 ## Career
 - **2023.3 ~ 현재 잡플래닛(브레인커머스) Data Analyst & Analytics Engineer** 
