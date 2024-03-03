@@ -31,6 +31,7 @@
 #### 2024
 - [굿 라이프: 내 삶을 바꾸는 심리학의 지혜](https://www.yes24.com/Product/Goods/61810085) --- (읽는 중)
 - [커넥팅: 일의 길을 찾는 당신을 위한 커리어 포트폴리오 전략](https://www.yes24.com/Product/Goods/124911453) --- (읽는 중)
+- [훅: 일상을 사로잡는 제품의 비밀](https://www.yes24.com/Product/Goods/109651824)
 - [데이터에서 비즈니스 성과로, BI를 위한 대시보드 설계와 구축](https://www.yes24.com/Product/Goods/124574690)
 - [인스파이어드: 감동을 전하는 IT 제품은 어떻게 만들어지는가?](https://www.yes24.com/Product/Goods/67512293)
 - [공식을 넘어서는 데이터 마인드셋: 실무자를 위한 데이터 분석 실전 워크북](https://www.yes24.com/Product/Goods/123669196)
