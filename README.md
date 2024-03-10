@@ -30,7 +30,8 @@
 ## 읽은 책
 #### 2024
 - [굿 라이프: 내 삶을 바꾸는 심리학의 지혜](https://www.yes24.com/Product/Goods/61810085) --- (읽는 중)
-- [커넥팅: 일의 길을 찾는 당신을 위한 커리어 포트폴리오 전략](https://www.yes24.com/Product/Goods/124911453) --- (읽는 중)
+- [영 포에버: 25세의 신체로 영원히 젊고 건강하게](https://www.yes24.com/Product/Goods/123423609) --- (읽는 중)
+- [커넥팅: 일의 길을 찾는 당신을 위한 커리어 포트폴리오 전략](https://www.yes24.com/Product/Goods/124911453)
 - [훅: 일상을 사로잡는 제품의 비밀](https://www.yes24.com/Product/Goods/109651824)
 - [데이터에서 비즈니스 성과로, BI를 위한 대시보드 설계와 구축](https://www.yes24.com/Product/Goods/124574690)
 - [인스파이어드: 감동을 전하는 IT 제품은 어떻게 만들어지는가?](https://www.yes24.com/Product/Goods/67512293)
