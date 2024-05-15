@@ -11,10 +11,9 @@
 
 - **2021.1 ~ 2021.6 학생 창업 회사 'CONCORN' 굿즈 플랫폼 '오즈의 제작소' 데이터분석가**
 
-- **2020.9 ~ 2020.12 효성ITX 인턴(수행기관: 한국벤처투자(주))**
-
 
 ## 최근 활동
+- 2024.3 ~ 현재 트레바리 플랫폼x데이터분석 = 그로스
 - 2024.2 ~ 현재 프로그래머스 데이터 분석 데브코스 멘토
 - 2023.10 패스트캠퍼스 데이터 분석 부트캠프 파이널 프로젝트 멘토
 - 2023.9 ~ 2023.12 트레바리 넘버스
@@ -31,6 +30,9 @@
 #### 2024
 - [굿 라이프: 내 삶을 바꾸는 심리학의 지혜](https://www.yes24.com/Product/Goods/61810085) --- (읽는 중)
 - [영 포에버: 25세의 신체로 영원히 젊고 건강하게](https://www.yes24.com/Product/Goods/123423609) --- (읽는 중)
+- [진화된 마케팅 그로스 해킹: 프로세스와 실행 전략 바이블](https://www.yes24.com/Product/Goods/53220322)
+- [스토너](https://www.yes24.com/Product/Goods/90865381)
+- [플랫폼 레볼루션: 4차 산업혁명 시대를 지배할 플랫폼 비즈니스의 모든 것](https://www.yes24.com/Product/Goods/41231668)
 - [커넥팅: 일의 길을 찾는 당신을 위한 커리어 포트폴리오 전략](https://www.yes24.com/Product/Goods/124911453)
 - [훅: 일상을 사로잡는 제품의 비밀](https://www.yes24.com/Product/Goods/109651824)
 - [데이터에서 비즈니스 성과로, BI를 위한 대시보드 설계와 구축](https://www.yes24.com/Product/Goods/124574690)
@@ -39,7 +41,6 @@
 - [함께 자라기: 애자일로 가는 길](https://www.yes24.com/Product/Goods/67350256)
 
 #### 2023
-- [스토너](https://www.yes24.com/Product/Goods/90865381)  --- (읽는 중)
 - [불안](https://www.yes24.com/Product/Goods/6111280)
 - [모든 것이 되는 법: 꿈이 너무 많은 당신을 위한 새로운 삶의 방식](https://www.yes24.com/Product/Goods/57445016)
 - [세컨드 펭귄: 불확실한 1인자보다 확실하게 살아남는 2인자의 성장 공식](https://www.yes24.com/Product/Goods/121994619)
@@ -108,8 +109,8 @@
 
 
 ## 외부 수강 강의
-- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) --- (수강중)
-- [2023-24 Tableau Certified Data Analyst Training](https://www.udemy.com/course/tableau-for-beginners/) --- (수강중)
+- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+- [2023-24 Tableau Certified Data Analyst Training](https://www.udemy.com/course/tableau-for-beginners/)
 - [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
 - [시계열 데이터 분석 with 파이썬](https://www.udemy.com/course/250-timeseries-kor-sub-top-100/)
 - [Data Warehouse - The Ultimate Guide](https://www.udemy.com/course/data-warehouse-the-ultimate-guide/)
