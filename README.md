@@ -29,8 +29,9 @@
 ## 읽은 책
 #### 2024
 - [영 포에버: 25세의 신체로 영원히 젊고 건강하게](https://www.yes24.com/Product/Goods/123423609) --- (읽는 중)
-- [불변의 법칙: 절대 변하지 않는 것들에 대한 23가지 이야기](https://www.yes24.com/Product/Goods/124999476) --- (읽는 중)
-- [데이터 분석의 힘: 그 많은 숫자들은 어떻게 전략이 되는가](https://www.yes24.com/Product/Goods/64094963) --- (읽는 중)
+- [테슬라 폭발적 성장 시나리오: AI·로봇·에너지 다 가진 유일한 기업](https://www.yes24.com/Product/Goods/126444455)
+- [불변의 법칙: 절대 변하지 않는 것들에 대한 23가지 이야기](https://www.yes24.com/Product/Goods/124999476)
+- [데이터 분석의 힘: 그 많은 숫자들은 어떻게 전략이 되는가](https://www.yes24.com/Product/Goods/64094963)
 - [굿 라이프: 내 삶을 바꾸는 심리학의 지혜](https://www.yes24.com/Product/Goods/61810085)
 - [진화된 마케팅 그로스 해킹: 프로세스와 실행 전략 바이블](https://www.yes24.com/Product/Goods/53220322)
 - [스토너](https://www.yes24.com/Product/Goods/90865381)
