@@ -27,8 +27,8 @@
 
 ## 읽은 책
 #### 2024
-- [더 커밍 웨이브: 딥마인드의 창조자가 말하는 AI와 인류의 새로운 미래](https://www.yes24.com/Product/Goods/124406515) --- (읽는 중)
 - [영 포에버: 25세의 신체로 영원히 젊고 건강하게](https://www.yes24.com/Product/Goods/123423609) --- (읽는 중)
+- [더 커밍 웨이브: 딥마인드의 창조자가 말하는 AI와 인류의 새로운 미래](https://www.yes24.com/Product/Goods/124406515)
 - [데이터 거버넌스 : 사람, 기술, 도구, 프로세스: 현대적인 데이터 관리와 활용을 위한 체계적 프레임워크](https://www.yes24.com/Product/Goods/126705071)
 - [테슬라 폭발적 성장 시나리오: AI·로봇·에너지 다 가진 유일한 기업](https://www.yes24.com/Product/Goods/126444455)
 - [불변의 법칙: 절대 변하지 않는 것들에 대한 23가지 이야기](https://www.yes24.com/Product/Goods/124999476)
