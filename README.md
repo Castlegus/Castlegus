@@ -113,7 +113,6 @@
 
 
 ## 외부 수강 강의
-- [Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 - [2023-24 Tableau Certified Data Analyst Training](https://www.udemy.com/course/tableau-for-beginners/)
 - [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
 - [시계열 데이터 분석 with 파이썬](https://www.udemy.com/course/250-timeseries-kor-sub-top-100/)
