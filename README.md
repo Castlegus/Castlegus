@@ -113,6 +113,8 @@
 
 
 ## 외부 수강 강의
+- [넓고 얕게 외워서 컴공 전공자 되기](https://www.inflearn.com/course/%EB%84%93%EA%B3%A0%EC%96%95%EA%B2%8C-%EC%BB%B4%EA%B3%B5-%EC%A0%84%EA%B3%B5%EC%9E%90)
+- [CS 지식의 정석 | 디자인패턴 네트워크 운영체제 데이터베이스 자료구조](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-cs-%ED%8A%B9%EA%B0%95)
 - [2023-24 Tableau Certified Data Analyst Training](https://www.udemy.com/course/tableau-for-beginners/)
 - [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
 - [시계열 데이터 분석 with 파이썬](https://www.udemy.com/course/250-timeseries-kor-sub-top-100/)
