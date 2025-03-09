@@ -26,6 +26,9 @@
 
 
 ## 읽은 책
+#### 2025
+- [스위트 스팟: 인생의 숨은 기회를 찾는 9가지 통찰](https://www.yes24.com/Product/Goods/142692077)
+
 #### 2024
 - [알기 쉬운 실전 데이터 모델링](https://www.yes24.com/Product/Goods/131944084)
 - [더 커밍 웨이브: 딥마인드의 창조자가 말하는 AI와 인류의 새로운 미래](https://www.yes24.com/Product/Goods/124406515)
