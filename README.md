@@ -1,7 +1,7 @@
 ## Data Analyst & Analytics Engineer
 
 ## Career
-- **2023.3 ~ 2024.3 네이버 Analytics Engineer** 
+- **2024.3 ~ 현재 네이버 Analytics Engineer** 
 
 - **2023.3 ~ 2024.3 잡플래닛(브레인커머스) Data Analyst & Analytics Engineer** 
 
@@ -18,7 +18,6 @@
 - 2024.2 ~ 현재 프로그래머스 데이터 분석 데브코스 멘토
 - 2024.3 ~ 2024.6 트레바리 플랫폼x데이터분석 = 그로스 참여
 - 2023.10 패스트캠퍼스 데이터 분석 부트캠프 파이널 프로젝트 멘토
-- 2023.9 ~ 2023.12 트레바리 넘버스 참여
 
 ## 보유 자격증
 - 국가공인 SQL 개발자(SQLD)
@@ -29,6 +28,7 @@
 
 ## 읽은 책
 #### 2025
+- [회복탄력성 시련을 행운으로 바꾸는 마음 근력의 힘](https://www.yes24.com/product/goods/71743513)
 - [스위트 스팟: 인생의 숨은 기회를 찾는 9가지 통찰](https://www.yes24.com/Product/Goods/142692077)
 
 #### 2024
@@ -118,6 +118,8 @@
 
 
 ## 외부 수강 강의
+- [Kafka & Spark 활용한 Realtime Datalake](https://www.inflearn.com/course/kafka-spark-realtime-datalake) -- (수강 중)
+- [개발자를 위한 쉬운 도커](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%89%AC%EC%9A%B4-%EB%8F%84%EC%BB%A4) -- (수강 중)
 - [RAG를 활용한 LLM Application 개발 (feat. LangChain)](https://www.inflearn.com/course/rag-llm-application%EA%B0%9C%EB%B0%9C-langchain)
 - [한시간으로 끝내는 LangChain 기본기](https://www.inflearn.com/course/%ED%95%9C%EC%8B%9C%EA%B0%84-%EB%81%9D%EB%82%B4%EB%8A%94-%EB%9E%AD%EC%B2%B4%EC%9D%B8-%EA%B8%B0%EB%B3%B8)
 - [넓고 얕게 외워서 컴공 전공자 되기](https://www.inflearn.com/course/%EB%84%93%EA%B3%A0%EC%96%95%EA%B2%8C-%EC%BB%B4%EA%B3%B5-%EC%A0%84%EA%B3%B5%EC%9E%90)
