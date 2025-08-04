@@ -14,9 +14,8 @@
 - **2021.1 ~ 2021.6 학생 창업 회사 'CONCORN' 굿즈 플랫폼 '오즈의 제작소' 데이터분석가**
 
 
-## 최근 활동
-- 2024.2 ~ 현재 프로그래머스 데이터 분석 데브코스 멘토
-- 2024.3 ~ 2024.6 트레바리 플랫폼x데이터분석 = 그로스 참여
+## 외부 활동
+- 2024.2 ~ 2025.5 프로그래머스 데이터 분석 데브코스 멘토
 - 2023.10 패스트캠퍼스 데이터 분석 부트캠프 파이널 프로젝트 멘토
 
 ## 보유 자격증
@@ -28,6 +27,8 @@
 
 ## 읽은 책
 #### 2025
+- [경험에서 배운다! 실전 데이터 분석 35: 데이터 분석가부터 AI 엔지니어까지 누구나 알아야 할 데이터 노하우](https://www.yes24.com/product/goods/148041343)
+- [세계 경제 지각 변동: 트럼프가 흔드는 세계 경제, 어디로 가는가](https://www.yes24.com/product/goods/147868678)
 - [회복탄력성 시련을 행운으로 바꾸는 마음 근력의 힘](https://www.yes24.com/product/goods/71743513)
 - [스위트 스팟: 인생의 숨은 기회를 찾는 9가지 통찰](https://www.yes24.com/Product/Goods/142692077)
 
@@ -120,6 +121,8 @@
 ## 외부 수강 강의
 - [Kafka & Spark 활용한 Realtime Datalake](https://www.inflearn.com/course/kafka-spark-realtime-datalake) -- (수강 중)
 - [개발자를 위한 쉬운 도커](https://www.inflearn.com/course/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%89%AC%EC%9A%B4-%EB%8F%84%EC%BB%A4) -- (수강 중)
+- [노코드 자동화 입문부터 실전까지: n8n 완전정복 (한국 최초 n8n 앰버서더 직강)](https://www.inflearn.com/course/%EB%85%B8%EC%BD%94%EB%93%9C-%EC%9E%90%EB%8F%99%ED%99%94%EC%9E%85%EB%AC%B8-%EC%8B%A4%EC%A0%84-n8n%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5) -- (수강 중)
+- [LangGraph를 활용한 AI Agent 개발 (feat. MCP)](https://www.inflearn.com/course/%EB%9E%AD%EA%B7%B8%EB%9E%98%ED%94%84-%ED%99%9C%EC%9A%A9%ED%95%9C-llm%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B0%9C%EB%B0%9C) -- (수강 중)
 - [RAG를 활용한 LLM Application 개발 (feat. LangChain)](https://www.inflearn.com/course/rag-llm-application%EA%B0%9C%EB%B0%9C-langchain)
 - [한시간으로 끝내는 LangChain 기본기](https://www.inflearn.com/course/%ED%95%9C%EC%8B%9C%EA%B0%84-%EB%81%9D%EB%82%B4%EB%8A%94-%EB%9E%AD%EC%B2%B4%EC%9D%B8-%EA%B8%B0%EB%B3%B8)
 - [넓고 얕게 외워서 컴공 전공자 되기](https://www.inflearn.com/course/%EB%84%93%EA%B3%A0%EC%96%95%EA%B2%8C-%EC%BB%B4%EA%B3%B5-%EC%A0%84%EA%B3%B5%EC%9E%90)
@@ -128,7 +131,7 @@
 - [The Complete dbt (Data Build Tool) Bootcamp: Zero to Hero](https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/)
 - [시계열 데이터 분석 with 파이썬](https://www.udemy.com/course/250-timeseries-kor-sub-top-100/)
 - [Data Warehouse - The Ultimate Guide](https://www.udemy.com/course/data-warehouse-the-ultimate-guide/)
-- [Airflow 마스터 클래스](https://statisticsplaybook.com/p/airflow)
+- [Airflow 마스터 클래스]([https://statisticsplaybook.com/p/airflow](https://www.inflearn.com/course/airflow-%EB%A7%88%EC%8A%A4%ED%84%B0-%ED%81%B4%EB%9E%98%EC%8A%A4)
 - [Analytics Engineering Bootcamp](https://www.udemy.com/course/analytics-engineering-bootcamp/)
 - [프롬프트 엔지니어링](https://www.inflearn.com/course/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%B1%97%EC%A7%80%ED%94%BC%ED%8B%B0)
 - [경쟁력 있는 분석가를 위한 데이터 엔지니어링 기초 : AWS, GCP 기반 클라우드 분석 환경 마스터](https://learningspoons.com/course/detail/basic_de/)
