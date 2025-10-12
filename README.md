@@ -27,6 +27,7 @@
 
 ## 읽은 책
 #### 2025
+- [비트코인 없는 미래는 없다](https://product.kyobobook.co.kr/detail/S000217543640)
 - [기술공화국 선언: 강력한 기술, 흔들리는 가치, 인류의 미래는 어디로 가는가](https://product.kyobobook.co.kr/detail/S000217251615)
 - [경험에서 배운다! 실전 데이터 분석 35: 데이터 분석가부터 AI 엔지니어까지 누구나 알아야 할 데이터 노하우](https://product.kyobobook.co.kr/detail/S000216901050)
 - [세계 경제 지각 변동: 트럼프가 흔드는 세계 경제, 어디로 가는가](https://product.kyobobook.co.kr/detail/S000216865985)
