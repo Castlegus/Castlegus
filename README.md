@@ -27,6 +27,7 @@
 
 ## 읽은 책
 #### 2025
+- [AI 타이탄들의 전쟁: 1조 달러 시장의 승자를 결정할 게임의 법칙](https://product.kyobobook.co.kr/detail/S000217295228)
 - [투자에 대한 생각: 월스트리트가 가장 신뢰한 하워드 막스의 20가지 투자 철학](https://product.kyobobook.co.kr/detail/S000000970535)
 - [비트코인 없는 미래는 없다](https://product.kyobobook.co.kr/detail/S000217543640)
 - [기술공화국 선언: 강력한 기술, 흔들리는 가치, 인류의 미래는 어디로 가는가](https://product.kyobobook.co.kr/detail/S000217251615)
