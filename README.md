@@ -18,12 +18,6 @@
 - 2024.2 ~ 2025.5 프로그래머스 데이터 분석 데브코스 멘토
 - 2023.10 패스트캠퍼스 데이터 분석 부트캠프 파이널 프로젝트 멘토
 
-## 보유 자격증
-- 국가공인 SQL 개발자(SQLD)
-- 국가공인 데이터분석 준전문가(ADsP)
-- Microsoft Office Specialist (MOS) Expert
-- 국가전문자격 공인중개사(Licensed Real Estate Agent)
-
 
 ## 읽은 책
 #### 2025
