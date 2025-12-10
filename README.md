@@ -21,6 +21,7 @@
 
 ## 읽은 책
 #### 2025
+- [재무제표, 돈의 흐름을 읽어라: 이익이 아닌 현금으로 기업가치 보는 법](https://product.kyobobook.co.kr/detail/S000218133768)
 - [AI 타이탄들의 전쟁: 1조 달러 시장의 승자를 결정할 게임의 법칙](https://product.kyobobook.co.kr/detail/S000217295228)
 - [투자에 대한 생각: 월스트리트가 가장 신뢰한 하워드 막스의 20가지 투자 철학](https://product.kyobobook.co.kr/detail/S000000970535)
 - [비트코인 없는 미래는 없다](https://product.kyobobook.co.kr/detail/S000217543640)
