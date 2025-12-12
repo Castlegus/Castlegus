@@ -3,7 +3,7 @@
 ## Career
 - **2025.3 ~ 현재 네이버 Analytics Engineer** 
 
-- **2023.3 ~ 2024.3 잡플래닛(브레인커머스) Data Analyst & Analytics Engineer** 
+- **2023.3 ~ 2025.3 잡플래닛(브레인커머스) Data Analyst & Analytics Engineer** 
 
 - **2022.12 ~ 2023.3 그린랩스 Data Analyst** 
 
