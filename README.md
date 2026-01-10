@@ -20,6 +20,9 @@
 
 
 ## 읽은 책
+#### 2026
+- [팔란티어 시대가 온다: 엔비디아·테슬라를 뛰어넘는 AI 패권 전쟁의 승자](https://product.kyobobook.co.kr/detail/S000217327129)
+
 #### 2025
 - [인사이더 인사이트: 평생 투자할 당신이 알아야 할 월스트리트 돈의 논리](https://product.kyobobook.co.kr/detail/S000218779057)
 - [재무제표, 돈의 흐름을 읽어라: 이익이 아닌 현금으로 기업가치 보는 법](https://product.kyobobook.co.kr/detail/S000218133768)
